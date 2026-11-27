@@ -86,12 +86,21 @@
   "Topf mit Deckel, Merkwörter"
  ],
  "caption": "Dieser Fehler macht dein Kochen unnötig teuer 💸 Ohne Deckel geht mit dem Dampf viel Wärme verloren.\nDeckel drauf 🍲 Platte passend wählen 🔥 nur nötiges Wasser 💧\nKochst du immer mit Deckel? 👇\n#kochen #stromsparen #alltagswissen #kurzwissen #energiesparen",
- "quellen": [],
- "status": "skript",
+ "quellen": [
+  {
+   "titel": "Umweltbundesamt: Herd und Kochfelder",
+   "url": "https://www.umweltbundesamt.de/umwelttipps-fuer-den-alltag/elektrogeraete/herd-kochfelder"
+  },
+  {
+   "titel": "BZfE: Infografik Energiesparen in der Küche",
+   "url": "https://www.bzfe.de/fileadmin/user_upload/Schule_und_Kita/Infografiken/BZfE_IG_Energiesparen_A4_q_web.pdf"
+  }
+ ],
+ "status": "geprueft",
  "faktencheck": {
-  "ergebnis": "",
-  "notizen": "",
-  "geprueft_am": ""
+  "ergebnis": "ok",
+  "notizen": "Alles belegt: BZfE (mit Deckel entweicht weniger Dampf, geht schneller); Umweltbundesamt (Deckel verwenden, Topf passend zur Kochplatte, nur so viel Wasser wie nötig). Keine Textänderung.",
+  "geprueft_am": "2026-11-27"
  },
  "erstellt_am": "2026-11-27"
 }

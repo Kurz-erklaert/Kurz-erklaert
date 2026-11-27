@@ -7,8 +7,8 @@
  "scenes": [
   {
    "zeilen": [
-    "So wird dein WLAN",
-    "oft wieder deutlich stabiler."
+    "So kann dein WLAN",
+    "oft wieder stabiler werden."
    ],
    "schluesselwoerter": [
     "stabiler."
@@ -16,7 +16,7 @@
   },
   {
    "zeilen": [
-    "Häufig steht der Router",
+    "Manchmal steht der Router",
     "einfach am falschen Platz."
    ],
    "schluesselwoerter": [
@@ -86,13 +86,22 @@
   "Router kommt aus dem Schrank, Wellen breiten sich aus",
   "Volles WLAN-Symbol, Merkwörter"
  ],
- "caption": "So wird dein WLAN oft wieder deutlich stabiler 📶 Wände, Möbel und Metall können das Funksignal schwächen.\nZentral 🏠 erhöht ⬆️ frei stehend 📡\nWo steht dein Router gerade? 👇\n#wlan #router #alltagswissen #kurzwissen #technikerklärt",
- "quellen": [],
- "status": "skript",
+ "caption": "So kann dein WLAN oft wieder stabiler werden 📶 Wände, Möbel und Metall können das Funksignal schwächen.\nZentral 🏠 erhöht ⬆️ frei stehend 📡\nWo steht dein Router gerade? 👇\n#wlan #router #alltagswissen #kurzwissen #technikerklärt",
+ "quellen": [
+  {
+   "titel": "Bitkom/VATM: Checkliste schnelles Internet daheim",
+   "url": "https://www.vatm.de/wp-content/uploads/2023/01/Checkliste-VATM-2023-1.pdf"
+  },
+  {
+   "titel": "Telekom: WLAN-Optimierung",
+   "url": "https://www.telekom.de/festnetz/heimvernetzung/wlan-optimierung"
+  }
+ ],
+ "status": "geprueft",
  "faktencheck": {
-  "ergebnis": "",
-  "notizen": "",
-  "geprueft_am": ""
+  "ergebnis": "ok",
+  "notizen": "Geändert: 'wird ... deutlich stabiler' auf 'kann ... stabiler werden' und 'Häufig' auf 'Manchmal', weil die Quellen weder eine deutliche Verbesserung zusagen noch eine Häufigkeit nennen. Belegt: zentral, leicht erhöht, frei und nicht im Schrank (Checkliste Bitkom/VATM); Wände, Metall und Metallmöbel stören das Signal (Bitkom/VATM, Telekom).",
+  "geprueft_am": "2026-11-27"
  },
  "erstellt_am": "2026-11-27"
 }

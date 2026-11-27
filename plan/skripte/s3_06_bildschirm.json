@@ -85,13 +85,18 @@
   "Leicht feuchtes, ausgewrungenes Tuch",
   "Sauberer Fernseher, Merkwörter"
  ],
- "caption": "So wird dein Bildschirm schonend wieder sauber 📺 Glasreiniger und Küchenpapier können die Oberfläche beschädigen.\nStecker ziehen 🔌 Mikrofasertuch 🧽 nie direkt sprühen 🚫 (Tuch nur leicht befeuchten, gut ausdrücken und die Anleitung beachten.)\nWomit putzt du deinen Fernseher? 👇\n#fernseher #bildschirm #alltagswissen #kurzwissen #technikerklärt",
- "quellen": [],
- "status": "skript",
+ "caption": "So wird dein Bildschirm schonend wieder sauber 📺 Glasreiniger und Küchenpapier können die Oberfläche beschädigen.\nStecker ziehen 🔌 Mikrofasertuch 🧽 nie direkt sprühen 🚫 (Tuch nur leicht befeuchten, gut ausdrücken, alles trocknen lassen, bevor der Stecker wieder reinkommt, und die Anleitung beachten.)\nWomit putzt du deinen Fernseher? 👇\n#fernseher #bildschirm #alltagswissen #kurzwissen #technikerklärt",
+ "quellen": [
+  {
+   "titel": "Samsung Support: Fernseherbildschirm reinigen",
+   "url": "https://www.samsung.com/de/support/tv-audio-video/tipps-zum-reinigen-deines-tv-bildschirms"
+  }
+ ],
+ "status": "geprueft",
  "faktencheck": {
-  "ergebnis": "",
-  "notizen": "",
-  "geprueft_am": ""
+  "ergebnis": "ok",
+  "notizen": "Samsung-Support belegt: ausschalten, abkühlen, Stecker ziehen; trockenes Mikrofasertuch ohne Druck; bei hartnäckigem Schmutz Tuch mit destilliertem Wasser befeuchten und ausdrücken; nie direkt sprühen; kein Glasreiniger, keine Papiertücher. Geändert: In der Caption Hinweis ergänzt, vor dem Wiederanschließen vollständig trocknen zu lassen (laut Hersteller).",
+  "geprueft_am": "2026-11-27"
  },
  "erstellt_am": "2026-11-27"
 }

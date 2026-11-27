@@ -8,7 +8,7 @@
   {
    "zeilen": [
     "So wird deine quietschende Tür",
-    "meist wieder leise."
+    "oft wieder leise."
    ],
    "schluesselwoerter": [
     "leise."
@@ -53,29 +53,29 @@
   },
   {
    "zeilen": [
-    "Drittens: Beweg die Tür mehrmals",
-    "und wisch Reste ab."
+    "Drittens: Wisch Reste ab",
+    "und prüf, ob es noch quietscht."
    ],
    "schluesselwoerter": [
-    "Beweg"
+    "Wisch"
    ]
   },
   {
    "zeilen": [
     "Merk dir:",
-    "Anheben, ölen, bewegen."
+    "Anheben, ölen, abwischen."
    ],
    "schluesselwoerter": [
     "Anheben,",
     "ölen,",
-    "bewegen."
+    "abwischen."
    ]
   }
  ],
  "merksatz_woerter": [
   "Anheben",
   "ölen",
-  "bewegen"
+  "abwischen"
  ],
  "bildideen": [
   "Zimmertür mit Quietsch-Wellen",
@@ -86,13 +86,22 @@
   "Tür schwingt hin und her, Tuch wischt",
   "Leise Tür, Merkwörter"
  ],
- "caption": "So wird deine quietschende Tür meist wieder leise 🚪 Oft fehlt den Scharnieren Schmierung, oder es sitzt Schmutz darin.\nLeicht anheben ⬆️ wenig Öl 💧 Tür bewegen 🔁 (Klemm dir nicht die Finger. Bei Rost oder Schmutz reicht Öl allein oft nicht.)\nWelche Tür quietscht bei dir? 👇\n#quietschendetür #heimwerken #alltagswissen #kurzwissen #haushaltstipps",
- "quellen": [],
- "status": "skript",
+ "caption": "So wird deine quietschende Tür oft wieder leise 🚪 Oft fehlt den Scharnieren Schmierung, oder es sitzt Schmutz darin.\nLeicht anheben ⬆️ wenig Öl 💧 Reste abwischen 🧽 (Nur leicht anheben, nicht aushängen, und auf deine Finger achten. Bei Rost oder Schmutz reicht Öl allein oft nicht.)\nWelche Tür quietscht bei dir? 👇\n#quietschendetür #heimwerken #alltagswissen #kurzwissen #haushaltstipps",
+ "quellen": [
+  {
+   "titel": "toom Baumarkt: Tür einstellen",
+   "url": "https://toom.de/selbermachen/bauen-renovieren/tueren/tuer-einstellen/"
+  },
+  {
+   "titel": "sanier.de: Innentür quietscht, das hilft",
+   "url": "https://www.sanier.de/innentueren/innentuer-quietscht-das-hilft"
+  }
+ ],
+ "status": "geprueft",
  "faktencheck": {
-  "ergebnis": "",
-  "notizen": "",
-  "geprueft_am": ""
+  "ergebnis": "ok",
+  "notizen": "Geändert: 'meist' auf 'oft' (laut sanier.de reicht Öl bei Rost oder Ablagerungen nicht). Dritter Tipp 'Tür mehrmals bewegen' war in den Quellen nicht belegt und wurde durch 'Reste abwischen und prüfen' ersetzt (toom); Merksatz und Caption angepasst, Hinweis zum vorsichtigen Anheben ergänzt. Belegt: trockene bzw. verschmutzte Scharniere als Ursache, leicht anheben, wenig Nähmaschinenöl (toom, sanier.de).",
+  "geprueft_am": "2026-11-27"
  },
  "erstellt_am": "2026-11-27"
 }

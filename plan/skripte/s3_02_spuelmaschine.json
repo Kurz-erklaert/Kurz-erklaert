@@ -88,12 +88,21 @@
   "Saubere glänzende Teller, Merkwörter"
  ],
  "caption": "So wird dein Geschirr oft wieder richtig sauber ✨ Ein verstopftes Sieb oder blockierte Sprüharme können der Grund sein.\nSieb spülen 🚿 Düsen prüfen 🔍 Arme frei drehen lassen 🔄 (Schau vorher in die Anleitung deines Geräts.)\nWann hast du dein Sieb zuletzt gereinigt? 👇\n#spülmaschine #geschirrspüler #alltagswissen #kurzwissen #haushaltstipps",
- "quellen": [],
- "status": "skript",
+ "quellen": [
+  {
+   "titel": "Bosch: Gebrauchsanleitung Geschirrspüler (9001431696)",
+   "url": "https://media3.bosch-home.com/Documents/9001431696_A.pdf"
+  },
+  {
+   "titel": "Siemens Hausgeräte: Geschirrspüler reinigt nicht richtig",
+   "url": "https://www.siemens-home.bsh-group.com/de/kundendienst/hilfe/probleme/spuelmaschine/reinigt-nicht-richtig"
+  }
+ ],
+ "status": "geprueft",
  "faktencheck": {
-  "ergebnis": "",
-  "notizen": "",
-  "geprueft_am": ""
+  "ergebnis": "ok",
+  "notizen": "Alles belegt: Bosch-Gebrauchsanleitung (Siebe herausnehmen und unter fließendem Wasser reinigen, Düsen der Sprüharme auf Verstopfung prüfen, Sprüharme nicht blockieren); Siemens-Hilfeseite (verstopfter Filter bzw. Sprüharme als Ursache für schlechtes Spülergebnis). Formulierungen mit 'oft' und 'etwa' sind ausreichend vorsichtig. Keine Textänderung.",
+  "geprueft_am": "2026-11-27"
  },
  "erstellt_am": "2026-11-27"
 }

@@ -7,8 +7,8 @@
  "scenes": [
   {
    "zeilen": [
-    "Dieser Fehler lässt dein Essen",
-    "im Kühlschrank schneller verderben."
+    "Dieser Fehler lässt im Kühlschrank",
+    "dein Essen oft schneller verderben."
    ],
    "schluesselwoerter": [
     "Fehler",
@@ -27,7 +27,7 @@
   {
    "zeilen": [
     "Aber im Kühlschrank ist es",
-    "meist nicht überall gleich kalt.",
+    "oft nicht überall gleich kalt.",
     "Drei Regeln helfen."
    ],
    "schluesselwoerter": [
@@ -87,13 +87,22 @@
   "Salat und Möhrengrün im Gemüsefach",
   "Geordneter Kühlschrank, Merkwörter"
  ],
- "caption": "Dieser Fehler lässt dein Essen schneller verderben 🥶 Im Kühlschrank ist es meist nicht überall gleich kalt.\nFleisch und Fisch unten 🥩 Milchprodukte in die Mitte 🥛 Salat ins Gemüsefach 🥬 (Die Anleitung deines Geräts zählt.)\nWas liegt bei dir ganz unten? 👇\n#kühlschrank #lebensmittellagern #alltagswissen #kurzwissen #küchentipps",
- "quellen": [],
- "status": "skript",
+ "caption": "Dieser Fehler lässt im Kühlschrank dein Essen oft schneller verderben 🥶 Im Kühlschrank ist es oft nicht überall gleich kalt.\nFleisch und Fisch unten 🥩 Milchprodukte in die Mitte 🥛 Salat ins Gemüsefach 🥬 (Die Anleitung deines Geräts zählt.)\nWas liegt bei dir ganz unten? 👇\n#kühlschrank #lebensmittellagern #alltagswissen #kurzwissen #küchentipps",
+ "quellen": [
+  {
+   "titel": "Stiftung Warentest: Kühlschrank richtig einräumen",
+   "url": "https://www.test.de/Kuehlschrank-richtig-einraeumen-7-Tipps-wie-Ihre-Lebens-mittel-laenger-frisch-bleiben-5796687-0/"
+  },
+  {
+   "titel": "Ministerium Baden-Württemberg: Lebensmittelretter Lagerung (2025)",
+   "url": "https://mlr.baden-wuerttemberg.de/fileadmin/redaktion/m-mlr/intern/dateien/PDFs/Essen_und_Trinken/2025_MLR_Flyer_Lebensmittleretter_Lagerung.pdf"
+  }
+ ],
+ "status": "geprueft",
  "faktencheck": {
-  "ergebnis": "",
-  "notizen": "",
-  "geprueft_am": ""
+  "ergebnis": "ok",
+  "notizen": "Geändert: im Hook und in der Caption 'oft' ergänzt (weniger absolut) und 'meist' auf 'oft' (Szene 2, Caption), weil laut MLR-Flyer Geräte mit dynamischer Kühlung überall gleich kalt sind; Stiftung Warentest beschreibt Temperaturzonen. Fleisch/Fisch auf der unteren Glasablage und Milchprodukte in der Mitte: Warentest und MLR. Salat/Gemüse ins Gemüsefach (mit Ausnahmen, daher 'viel Gemüse'): beide.",
+  "geprueft_am": "2026-11-27"
  },
  "erstellt_am": "2026-11-27"
 }
