@@ -1,7 +1,7 @@
 {
  "stand": "2026-11-27",
  "stil": "flat",
- "skripte_pro_lauf": 7,
+ "skripte_pro_lauf": 8,
  "ziel_geprueft_auf_halde": 10,
  "hook_mix": "abwechselnd A und B",
  "kategorien_schwerpunkt": [
@@ -11,5 +11,6 @@
   "Energie",
   "Wohnen"
  ],
- "hinweise": "Manager aktualisiert wöchentlich. Skript-Autor liest dies vor jedem Lauf."
+ "hinweise": "Skript-Autor liest dies vor jedem Lauf. Stand 27.11.: Kein Analystenbericht (claude/auswertung.md fehlt), daher Stil, Hook-Mix und Themen unverändert; stil_test 'laeuft' = keine zusätzlichen 3D-Skripte. Bedarf: Vorrat 17 (17 offene Videos, 0 offene Skripte), Ziel mindestens 20; Verbrauch 14 je Woche, daher skripte_pro_lauf von 7 auf 8 (Maximum).",
+ "stil_test": "laeuft"
 }
