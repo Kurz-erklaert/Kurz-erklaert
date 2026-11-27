@@ -49,7 +49,7 @@ for n, row in enumerate(rows, start=2):
     for k, (key, _, _) in enumerate(STIL):
         ws.cell(n, 16 + k, f'=IF($C{n}="{key}",$E{n},0)')
     ws.cell(n, 1).number_format = 'dd.mm.yy hh:mm'
-    ws.cell(n, 19, row[0].strftime('%d.%m. %H:%M') + ' ' + row[1][:14])
+    ws.cell(n, 19, row[0].strftime('%d.%m. %H:%M'))
     fill = PatternFill('solid', fgColor='F5F7FB' if n % 2 == 0 else 'FFFFFF')
     for c in range(1, 16):
         x = ws.cell(n, c); x.fill = fill; x.border = box
@@ -136,14 +136,18 @@ def time_chart(kind, cols_, title, ytitle, anchor, colors):
             s.marker.graphicalProperties.solidFill = colr; s.smooth = False
         else: s.graphicalProperties.solidFill = colr
     ch.set_categories(Reference(ws, min_col=19, min_row=2, max_row=n_last))
-    style_chart(ch, title, 'Veröffentlichung (Datum, Uhrzeit, Video)', ytitle, 25, 9); ch.x_axis.title = 'Veröffentlichung (Datum, Uhrzeit, Video)'; ch.y_axis.title = ytitle
+    style_chart(ch, title, 'Veröffentlichung (Datum, Uhrzeit)', ytitle, 25, 10); ch.x_axis.title = 'Veröffentlichung (Datum, Uhrzeit)'; ch.y_axis.title = ytitle
     ch.x_axis.delete = False; ch.y_axis.delete = False
     ch.plotVisOnly = False
+    from openpyxl.chart.text import RichText
+    from openpyxl.drawing.text import Paragraph, ParagraphProperties, CharacterProperties, RichTextProperties
+    ch.x_axis.txPr = RichText(bodyPr=RichTextProperties(rot=-5400000, vert='horz'), p=[Paragraph(pPr=ParagraphProperties(defRPr=CharacterProperties(sz=800)), endParaRPr=CharacterProperties())])
+    ch.x_axis.tickLblSkip = 1 if n_last <= 25 else max(1, n_last // 20)
     g.add_chart(ch, anchor)
 time_chart('line', [5, 6], 'Aufrufe und Reichweite je Reel', 'Anzahl', 'B5', [NAVY, ORANGE])
-time_chart('bar', [16, 17, 18], 'Aufrufe je Reel, nach Stil eingefärbt', 'Aufrufe', 'B25', [c for _, _, c in STIL])
-time_chart('line', [11], 'Ø Wiedergabezeit je Reel', 'Sekunden', 'B45', [NAVY])
-time_chart('bar', [9, 10], 'Shares und Gespeichert je Reel', 'Anzahl', 'B65', [ORANGE, NAVY])
+time_chart('bar', [16, 17, 18], 'Aufrufe je Reel, nach Stil eingefärbt', 'Aufrufe', 'B27', [c for _, _, c in STIL])
+time_chart('line', [11], 'Ø Wiedergabezeit je Reel', 'Sekunden', 'B49', [NAVY])
+time_chart('bar', [9, 10], 'Shares und Gespeichert je Reel', 'Anzahl', 'B71', [ORANGE, NAVY])
 
 # ---------- Warteschlange ----------
 w = wb.create_sheet('Warteschlange'); w.append(['Platz', 'Video', 'Stil', 'Variante', 'Status']); hdr(w, 1, 5, 28)
