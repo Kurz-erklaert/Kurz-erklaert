@@ -33,3 +33,12 @@ Jeder Agent ist eine geplante Aufgabe in der Cloud. Er startet ohne Gedächtnis,
 - plan/skripte/*.json: ein Skript je Video, Format siehe agenten/skript-regeln.md
 - status.json: Gesundheitszustand (Wächter)
 - Beispiel: agenten/beispiel_skript.json. Prüfen: python3 agenten/pruefe_skript.py [datei]
+
+## Erweiterung (27.11.)
+- **Qualitätsprüfung & Lautstärke (Pflicht in der Produktion):** jedes fertige Video vor dem Einreihen mit `python3 agenten/pruefe_video.py <datei>` prüfen und mit `python3 agenten/normalisiere_ton.py <datei>` auf ca. -16 LUFS bringen. Fehler = nicht einreihen.
+- **Saison-Planer** (mittwochs): schreibt `plan/saison_themen.json` (Themen 2–4 Wochen vor dem Anlass). Der Skript-Autor bevorzugt fällige Saisonthemen.
+- **Recycling-Agent** (monatlich): schreibt `plan/recycling.json` (Reels ≥42 Tage alt mit guten Zahlen, neuer Hook/Winkel, nie identisch). Der Autor darf pro Lauf 1 Skript daraus machen.
+- **Community-Agent** (täglich nach Kennzahlen): schreibt NUR Antwortvorschläge nach `plan/antworten.json`. Er antwortet nie selbst auf Instagram.
+- **Experiment-Planer** (Teil des Managers): immer nur EINE Variable gleichzeitig (Stil, Hook, Uhrzeit, Länge, Thema), Gruppen ausgewogen, Ergebnis erst ab n≥6 pro Gruppe und ≥72 h Laufzeit als Tendenz, ab n≥10 als Entscheidung.
+- **Wächter** prüft zusätzlich: ElevenLabs-Guthaben, ob Kennzahlen-Läufe fehlschlagen (= Token-Problem, Meta-Token läuft ca. alle 60 Tage ab), ob geplante Post-Läufe stattfinden.
+- Dateibesitz neu: Saison-Planer `plan/saison_themen.json`; Recycling `plan/recycling.json`; Community `plan/antworten.json`.
