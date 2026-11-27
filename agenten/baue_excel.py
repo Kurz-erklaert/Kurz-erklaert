@@ -103,12 +103,17 @@ ov.column_dimensions['H'].width = 3
 ov['B13'] = 'Hinweis: Bei wenigen Reels je Gruppe sind die Werte nur Tendenzen. Entscheidung erst ab 6 Reels je Gruppe und mindestens 72 Stunden Laufzeit.'
 ov['B13'].font = Font(italic=True, color='667085', size=9)
 
-def style_chart(ch, title, xt=None, yt=None, w=17, h=8.5):
+def style_chart(ch, title, xt=None, yt=None, w=17, h=8.5, plot_h=0.62, labels_below=False):
+    from openpyxl.chart.layout import Layout, ManualLayout
     ch.title = title; ch.width = w; ch.height = h
+    ch.title.overlay = False
     ch.x_axis.delete = False; ch.y_axis.delete = False
-    if xt: ch.x_axis.title = xt
-    if yt: ch.y_axis.title = yt
-    if ch.legend is not None: ch.legend.position = 'b'
+    ch.x_axis.title = None  # Achsentitel unten entfallen: Beschriftung erklärt sich selbst, verhindert Überlagerung
+    if yt:
+        ch.y_axis.title = yt; ch.y_axis.title.overlay = False
+    if ch.legend is not None:
+        ch.legend.position = 'b'; ch.legend.overlay = False
+    ch.layout = Layout(manualLayout=ManualLayout(layoutTarget='inner', xMode='edge', yMode='edge', x=0.12, y=0.16, w=0.84, h=plot_h))
 
 def bar_by_style(col, title, ytitle, anchor):
     ch = BarChart(); ch.type = 'col'; ch.varyColors = False
@@ -118,7 +123,7 @@ def bar_by_style(col, title, ytitle, anchor):
     from openpyxl.chart.series import DataPoint
     for idx, (_, _, colr) in enumerate(STIL):
         dp = DataPoint(idx=idx); dp.graphicalProperties.solidFill = colr; s.dPt.append(dp)
-    style_chart(ch, title, 'Stil', ytitle, 11.5, 7.5); ov.add_chart(ch, anchor)
+    style_chart(ch, title, None, ytitle, 12, 8, 0.6); ov.add_chart(ch, anchor)
 bar_by_style(4, 'Ø Aufrufe je Stil', 'Aufrufe', 'B15'); bar_by_style(6, 'Ø Wiedergabe je Stil', 'Sekunden', 'H15'); bar_by_style(7, 'Saves + Shares je 100 Aufrufe', 'je 100', 'N15')
 
 # ---------- Verlauf (Zeitachse) ----------
@@ -136,7 +141,7 @@ def time_chart(kind, cols_, title, ytitle, anchor, colors):
             s.marker.graphicalProperties.solidFill = colr; s.smooth = False
         else: s.graphicalProperties.solidFill = colr
     ch.set_categories(Reference(ws, min_col=19, min_row=2, max_row=n_last))
-    style_chart(ch, title, 'Veröffentlichung (Datum, Uhrzeit)', ytitle, 25, 10); ch.x_axis.title = 'Veröffentlichung (Datum, Uhrzeit)'; ch.y_axis.title = ytitle
+    style_chart(ch, title, None, ytitle, 25, 11, 0.5); 
     ch.x_axis.delete = False; ch.y_axis.delete = False
     ch.plotVisOnly = False
     from openpyxl.chart.text import RichText
