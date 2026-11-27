@@ -45,3 +45,6 @@ Jeder Agent ist eine geplante Aufgabe in der Cloud. Er startet ohne Gedächtnis,
 
 ## Stil-Werte (seit 27.11.)
 `stil` in queue.json, Skripten und plan/auftrag.json hat drei Werte: `flat` (hell), `flat-dunkel` (flach auf Schwarz, Generator `pipeline/genvid2_dark.py`, Cover `pipeline/cover.py … dark`), `3d`. Der Manager darf `stil` in plan/auftrag.json auf jeden dieser Werte setzen, passend zur Empfehlung des Analysten (z. B. „flat-dunkel als Standard"). Test läuft: 4 Videos `flat-dunkel` (d2_*), 2 Videos `3d`, Rest `flat`.
+
+## Regel-Beobachter (monatlich, 15.)
+Prüft Plattform-/Rechtsregeln (Instagram, Meta-KI-Label, YouTube, TikTok, KI-VO, Werbekennzeichnung) gegen `plan/regeln_stand.json`, schreibt nur diese Datei und meldet dem Nutzer nur wesentliche Änderungen. Saison-Planer macht zusätzlich kostenlose Trend-Recherche per Websuche (kein Apify/Firecrawl, keine Zusatzkosten).
