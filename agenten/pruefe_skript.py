@@ -51,6 +51,9 @@ def check(path):
         if strip(w) not in last: err.append(f'merksatz_wort nicht in Szene 6: {w}')
     if len(s['bildideen']) != 7: err.append('bildideen: genau 7')
     if 'Stimme: KI' not in s['caption']: err.append('Caption braucht die Zeile "Stimme: KI 🎙️" vor den Hashtags')
+    first = s['caption'].strip().splitlines()[0][:125].lower()
+    stems = [w[:5] for w in re.findall(r'[a-zäöüß]{4,}', s['thema'].lower())]
+    if stems and not any(st in first for st in stems): err.append('Hauptstichwort des Themas fehlt in den ersten 125 Zeichen der Caption')
     tags = re.findall(r'#\w+', s['caption'])
     if len(tags) != 5: err.append(f'Caption braucht genau 5 Hashtags, hat {len(tags)}')
     if not s['caption'].strip().splitlines()[-1].lstrip().startswith('#'): err.append('Hashtags gehören in die letzte Zeile')
