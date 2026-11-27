@@ -1,8 +1,9 @@
 name: Reel veröffentlichen
 on:
   schedule:
-    - cron: "0 7 * * *"    # 08:00 Uhr deutscher Winterzeit (UTC+1)
-    - cron: "30 17 * * *"  # 18:30 Uhr deutscher Winterzeit
+    # Alle 10 Minuten rund um die Slots (UTC 6-9 und 16-19, deckt Winter- und Sommerzeit ab).
+    # publish.py prüft selbst, ob ein Slot (8:00 / 18:30 deutsche Zeit) fällig ist; Verspätungen von GitHub werden so aufgeholt.
+    - cron: "*/10 6-9,16-19 * * *"
   workflow_dispatch:
     inputs:
       dry_run:
@@ -10,6 +11,9 @@ on:
         default: "1"
 permissions:
   contents: write
+concurrency:
+  group: reel-post
+  cancel-in-progress: false
 jobs:
   post:
     runs-on: ubuntu-latest
@@ -25,5 +29,5 @@ jobs:
         run: |
           git config user.name "bot"
           git config user.email "bot@users.noreply.github.com"
-          git add posted.json
+          git add posted.json posted_at.json
           git diff --cached --quiet || (git commit -m "gepostet" && git push)
