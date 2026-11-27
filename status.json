@@ -1,22 +1,26 @@
 {
- "stand": "2026-11-27T17:53:48+01:00",
- "ampel": "gruen",
+ "stand": "2026-11-27T21:42:36+01:00",
+ "ampel": "gelb",
  "hinweise": [
-  "Veröffentlichung im Plan: erwartet 1, veröffentlicht 1. Erster Slot im Dauerbetrieb ist am 27.11. um 18:30 Uhr.",
-  "Die letzten Workflow-Läufe waren alle erfolgreich (4 manuell gestartete, noch kein geplanter Lauf).",
-  "7 Reels vom 08.–14.05.2025 liefern keine Kennzahlen (Code 100, Invalid parameter, Typ OAuthException). Die anderen 30 im selben Abruf sind fehlerfrei, daher nicht als Token-Fehler gewertet.",
-  "Halde leer: 0 geprüfte, noch nicht produzierte Skripte."
+  "Veröffentlichung im Plan: erwartet 2, veröffentlicht 2.",
+  "1 fehlgeschlagener Lauf: „Kennzahlen abrufen“ am 27.11. um 19:07 Uhr (manuell gestartet); die 2 späteren Abrufe waren erfolgreich.",
+  "Noch kein geplanter Lauf von „Kennzahlen abrufen“. Seit Bestehen des Workflows war erst der Termin um 21:00 Uhr fällig, möglicherweise nur verspätet.",
+  "„Reel veröffentlichen“ lief geplant um 19:57 und 20:59 Uhr, beide erfolgreich.",
+  "7 Reels vom 08.–14.05.2025 liefern keine Kennzahlen (Code 100, Invalid parameter, Typ OAuthException). Die anderen 31 sind ohne Fehler, daher nicht als Token-Fehler gewertet.",
+  "Halde: 8 geprüfte Skripte sind noch nicht produziert.",
+  "Videoprüfung der 3 nächsten Videos ohne Fehler."
  ],
- "queue_offen": 17,
- "tage_reichweite_queue": 8.5,
- "posted_anzahl": 1,
- "posted_erwartet": 1,
- "letzter_insights_abruf": "2026-11-27T14:41:46.378215Z",
+ "queue_offen": 16,
+ "tage_reichweite_queue": 8.0,
+ "posted_anzahl": 2,
+ "posted_erwartet": 2,
+ "letzter_insights_abruf": "2026-11-27T18:50:51.796608Z",
  "halde": {
   "skript": 0,
-  "geprueft": 0,
+  "geprueft": 8,
   "ueberarbeiten": 0,
   "abgelehnt": 0,
   "produziert": 0
- }
+ },
+ "elevenlabs_quote": 0.113
 }
