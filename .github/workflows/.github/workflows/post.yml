@@ -1,0 +1,29 @@
+name: Reel veröffentlichen
+on:
+  schedule:
+    - cron: "0 7 * * *"    # 08:00 Uhr deutscher Winterzeit (UTC+1)
+    - cron: "30 17 * * *"  # 18:30 Uhr deutscher Winterzeit
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Nur testen, nichts veröffentlichen (1 = ja)"
+        default: "1"
+permissions:
+  contents: write
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Veröffentlichen
+        env:
+          IG_TOKEN: ${{ secrets.IG_TOKEN }}
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+          DRY_RUN: ${{ github.event.inputs.dry_run }}
+        run: python3 publish.py
+      - name: Stand speichern
+        run: |
+          git config user.name "bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add posted.json
+          git diff --cached --quiet || (git commit -m "gepostet" && git push)
