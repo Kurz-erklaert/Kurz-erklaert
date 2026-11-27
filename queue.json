@@ -5,7 +5,8 @@
     "staffel": 1,
     "variante": "S1",
     "stil": "flat",
-    "cover": "covers/folge01.jpg"
+    "cover": "covers/folge01.jpg",
+    "name": "Schlafträgheit"
   },
   {
     "video": "videos/folge02.mp4",
@@ -13,7 +14,8 @@
     "staffel": 1,
     "variante": "S1",
     "stil": "flat",
-    "cover": "covers/folge02.jpg"
+    "cover": "covers/folge02.jpg",
+    "name": "Brot wird hart"
   },
   {
     "video": "videos/folge03.mp4",
@@ -21,7 +23,8 @@
     "staffel": 1,
     "variante": "S1",
     "stil": "flat",
-    "cover": "covers/folge03.jpg"
+    "cover": "covers/folge03.jpg",
+    "name": "Schwarz vor Augen beim Aufstehen"
   },
   {
     "video": "videos/folge04.mp4",
@@ -29,7 +32,8 @@
     "staffel": 1,
     "variante": "S1",
     "stil": "flat",
-    "cover": "covers/folge04.jpg"
+    "cover": "covers/folge04.jpg",
+    "name": "Zwiebel Tränen"
   },
   {
     "video": "videos/s3d_heizung.mp4",
@@ -38,7 +42,8 @@
     "variante": "B",
     "thema": "Heizung entlüften",
     "stil": "3d",
-    "cover": "covers/s3d_heizung.jpg"
+    "cover": "covers/s3d_heizung.jpg",
+    "name": "Heizung entlüften"
   },
   {
     "video": "videos/s3d_kocher.mp4",
@@ -47,7 +52,8 @@
     "variante": "B",
     "thema": "Wasserkocher entkalken",
     "stil": "3d",
-    "cover": "covers/s3d_kocher.jpg"
+    "cover": "covers/s3d_kocher.jpg",
+    "name": "Wasserkocher entkalken"
   },
   {
     "video": "videos/folge05.mp4",
@@ -55,7 +61,8 @@
     "staffel": 1,
     "variante": "S1",
     "stil": "flat",
-    "cover": "covers/folge05.jpg"
+    "cover": "covers/folge05.jpg",
+    "name": "Waschmaschine muffig"
   },
   {
     "video": "videos/d2_01_apfel.mp4",
@@ -64,7 +71,8 @@
     "variante": "A",
     "thema": "Apfel braun",
     "stil": "flat-dunkel",
-    "cover": "covers/d2_01_apfel.jpg"
+    "cover": "covers/d2_01_apfel.jpg",
+    "name": "Apfel wird braun"
   },
   {
     "video": "videos/folge06.mp4",
@@ -72,7 +80,8 @@
     "staffel": 1,
     "variante": "S1",
     "stil": "flat",
-    "cover": "covers/folge06.jpg"
+    "cover": "covers/folge06.jpg",
+    "name": "Schluckauf"
   },
   {
     "video": "videos/folge07.mp4",
@@ -80,7 +89,8 @@
     "staffel": 1,
     "variante": "S1",
     "stil": "flat",
-    "cover": "covers/folge07.jpg"
+    "cover": "covers/folge07.jpg",
+    "name": "Brille beschlägt"
   },
   {
     "video": "videos/d2_03_broetchen.mp4",
@@ -89,7 +99,8 @@
     "variante": "A",
     "thema": "Brötchen aufbacken",
     "stil": "flat-dunkel",
-    "cover": "covers/d2_03_broetchen.jpg"
+    "cover": "covers/d2_03_broetchen.jpg",
+    "name": "Brötchen aufbacken"
   },
   {
     "video": "videos/folge08.mp4",
@@ -97,7 +108,8 @@
     "staffel": 1,
     "variante": "S1",
     "stil": "flat",
-    "cover": "covers/folge08.jpg"
+    "cover": "covers/folge08.jpg",
+    "name": "Fenster beschlagen"
   },
   {
     "video": "videos/folge09.mp4",
@@ -105,7 +117,8 @@
     "staffel": 1,
     "variante": "S1",
     "stil": "flat",
-    "cover": "covers/folge09.jpg"
+    "cover": "covers/folge09.jpg",
+    "name": "Bananen werden braun"
   },
   {
     "video": "videos/d2_04_handy.mp4",
@@ -114,7 +127,8 @@
     "variante": "B",
     "thema": "Handy-Akku",
     "stil": "flat-dunkel",
-    "cover": "covers/d2_04_handy.jpg"
+    "cover": "covers/d2_04_handy.jpg",
+    "name": "Handy-Akku"
   },
   {
     "video": "videos/folge10.mp4",
@@ -122,7 +136,8 @@
     "staffel": 1,
     "variante": "S1",
     "stil": "flat",
-    "cover": "covers/folge10.jpg"
+    "cover": "covers/folge10.jpg",
+    "name": "Schrumpelfinger"
   },
   {
     "video": "videos/folge11.mp4",
@@ -130,7 +145,8 @@
     "staffel": 1,
     "variante": "S1",
     "stil": "flat",
-    "cover": "covers/folge11.jpg"
+    "cover": "covers/folge11.jpg",
+    "name": "Kaffee wirkt nicht"
   },
   {
     "video": "videos/d2_05_spiegel.mp4",
@@ -139,7 +155,8 @@
     "variante": "A",
     "thema": "Badspiegel beschlägt",
     "stil": "flat-dunkel",
-    "cover": "covers/d2_05_spiegel.jpg"
+    "cover": "covers/d2_05_spiegel.jpg",
+    "name": "Badspiegel beschlägt"
   },
   {
     "video": "videos/folge12.mp4",
@@ -147,6 +164,7 @@
     "staffel": 1,
     "variante": "S1",
     "stil": "flat",
-    "cover": "covers/folge12.jpg"
+    "cover": "covers/folge12.jpg",
+    "name": "Standby Strom"
   }
 ]

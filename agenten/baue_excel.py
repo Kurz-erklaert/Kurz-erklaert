@@ -37,7 +37,7 @@ for r in sorted(ins['reels'], key=lambda r: r['timestamp']):
     if r['timestamp'] < '2026-11-26': continue
     e = match(r.get('caption_anfang', '')); i = r['insights']
     t = dt.datetime.strptime(r['timestamp'], '%Y-%m-%dT%H:%M:%S%z').astimezone(dt.timezone(dt.timedelta(hours=1))).replace(tzinfo=None)
-    rows.append([t, (e.get('video') or '(Reel ohne Videozuordnung)')[:40].replace('videos/', '').replace('.mp4', ''), e.get('stil', '?'), e.get('variante', ''),
+    rows.append([t, (e.get('name') or e.get('video') or '(Reel ohne Videozuordnung)')[:40].replace('videos/', '').replace('.mp4', ''), e.get('stil', '?'), e.get('variante', ''),
                  i.get('views') or 0, i.get('reach') or 0, i.get('likes') or 0, i.get('comments') or 0, i.get('shares') or 0, i.get('saved') or 0,
                  round((i.get('ig_reels_avg_watch_time') or 0) / 1000, 1), r['permalink']])
 n_last = max(len(rows) + 1, 2)
@@ -159,7 +159,7 @@ w = wb.create_sheet('Warteschlange'); w.append(['Platz', 'Video', 'Stil', 'Varia
 n = 0
 for e in q:
     done = e['video'] in posted; n += 0 if done else 1
-    w.append([n if not done else '', e['video'].replace('videos/', '').replace('.mp4', ''), e.get('stil'), e.get('variante'), 'veröffentlicht' if done else 'offen'])
+    w.append([n if not done else '', e.get('name') or e['video'].replace('videos/', '').replace('.mp4', ''), e.get('stil'), e.get('variante'), 'veröffentlicht' if done else 'offen'])
     r = w.max_row; colr = {k: c for k, _, c in STIL}.get(e.get('stil'), 'CCCCCC')
     for c in range(1, 6): w.cell(r, c).border = box; w.cell(r, c).alignment = Alignment(horizontal='center')
     w.cell(r, 3).fill = PatternFill('solid', fgColor=colr); w.cell(r, 3).font = Font(bold=True, color='FFFFFF' if e.get('stil') != 'flat' else NAVY)

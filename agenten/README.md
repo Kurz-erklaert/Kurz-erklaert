@@ -50,3 +50,6 @@ Jeder Agent ist eine geplante Aufgabe in der Cloud. Er startet ohne Gedächtnis,
 Prüft Plattform-/Rechtsregeln (Instagram, Meta-KI-Label, YouTube, TikTok, KI-VO, Werbekennzeichnung) gegen `plan/regeln_stand.json`, schreibt nur diese Datei und meldet dem Nutzer nur wesentliche Änderungen. Saison-Planer macht zusätzlich kostenlose Trend-Recherche per Websuche (kein Apify/Firecrawl, keine Zusatzkosten).
 
 Zusätzlich lesen: `agenten/leitlinien.md` (Caption-SEO, Hook-Regeln, Experiment-Regeln). Alle Agenten halten sich daran.
+
+## Namen
+Jeder Eintrag in queue.json hat ein Feld `name` (kurzer, eindeutiger Themenname wie „Heizung entlüften"). Wer ein Video einreiht, setzt es. Die Excel-Auswertung zeigt diesen Namen.
