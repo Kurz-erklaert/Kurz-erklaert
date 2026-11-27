@@ -42,3 +42,6 @@ Jeder Agent ist eine geplante Aufgabe in der Cloud. Er startet ohne Gedächtnis,
 - **Experiment-Planer** (Teil des Managers): immer nur EINE Variable gleichzeitig (Stil, Hook, Uhrzeit, Länge, Thema), Gruppen ausgewogen, Ergebnis erst ab n≥6 pro Gruppe und ≥72 h Laufzeit als Tendenz, ab n≥10 als Entscheidung.
 - **Wächter** prüft zusätzlich: ElevenLabs-Guthaben, ob Kennzahlen-Läufe fehlschlagen (= Token-Problem, Meta-Token läuft ca. alle 60 Tage ab), ob geplante Post-Läufe stattfinden.
 - Dateibesitz neu: Saison-Planer `plan/saison_themen.json`; Recycling `plan/recycling.json`; Community `plan/antworten.json`.
+
+## Stil-Werte (seit 27.11.)
+`stil` in queue.json, Skripten und plan/auftrag.json hat drei Werte: `flat` (hell), `flat-dunkel` (flach auf Schwarz, Generator `pipeline/genvid2_dark.py`, Cover `pipeline/cover.py … dark`), `3d`. Der Manager darf `stil` in plan/auftrag.json auf jeden dieser Werte setzen, passend zur Empfehlung des Analysten (z. B. „flat-dunkel als Standard"). Test läuft: 4 Videos `flat-dunkel` (d2_*), 2 Videos `3d`, Rest `flat`.
