@@ -15,9 +15,14 @@ jobs:
           IG_TOKEN: ${{ secrets.IG_TOKEN }}
           IG_USER_ID: ${{ secrets.IG_USER_ID }}
         run: python3 insights.py
+      - name: Excel-Auswertung bauen
+        continue-on-error: true
+        run: |
+          pip install -q openpyxl
+          python3 agenten/baue_excel.py auswertung.xlsx
       - name: Speichern
         run: |
           git config user.name "bot"
           git config user.email "bot@users.noreply.github.com"
-          git add insights.json
+          git add insights.json auswertung.xlsx
           git diff --cached --quiet || (git commit -m "Kennzahlen" && (git pull --rebase -q && git push) || (sleep 5; git pull --rebase -q && git push))
