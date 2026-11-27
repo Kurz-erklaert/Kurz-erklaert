@@ -539,7 +539,7 @@ if sys.argv[1] == 'preview':
 else:
     files = []
     for si in range(7):
-        final = f'{OUT}/{VID}_{si}.mp4'; tmp = f'{OUT}/{VID}_{si}_tmp.mp4'
+        final = f'{OUT}/D{VID}_{si}.mp4'; tmp = f'{OUT}/D{VID}_{si}_tmp.mp4'
         n = fb[si + 1] - fb[si]
         p = subprocess.Popen(['ffmpeg', '-y', '-loglevel', 'error', '-f', 'rawvideo', '-pix_fmt', 'rgb24', '-s', f'{W}x{H}', '-r', str(FPS), '-i', '-',
                               '-c:v', 'libx264', '-crf', '18', '-preset', 'veryfast', '-pix_fmt', 'yuv420p', tmp], stdin=subprocess.PIPE)
@@ -549,9 +549,9 @@ else:
         if p.wait() == 0: os.rename(tmp, final)
         else: sys.exit('ffmpeg failed')
         files.append(final); print('scene', si, 'done', flush=True)
-    with open(f'{OUT}/list_{VID}.txt', 'w') as fh:
+    with open(f'{OUT}/Dlist_{VID}.txt', 'w') as fh:
         for fl in files: fh.write(f"file '{fl}'\n")
-    run(['ffmpeg', '-y', '-loglevel', 'error', '-f', 'concat', '-safe', '0', '-i', f'{OUT}/list_{VID}.txt', '-c', 'copy', f'{OUT}/joined_{VID}.mp4'])
-    run(['ffmpeg', '-y', '-loglevel', 'error', '-i', f'{OUT}/joined_{VID}.mp4', '-i', AUD, '-map', '0:v', '-map', '1:a', '-c:v', 'copy', '-c:a', 'aac', '-b:a', '192k',
-         SPEC["file"]])
+    run(['ffmpeg', '-y', '-loglevel', 'error', '-f', 'concat', '-safe', '0', '-i', f'{OUT}/Dlist_{VID}.txt', '-c', 'copy', f'{OUT}/Djoined_{VID}.mp4'])
+    run(['ffmpeg', '-y', '-loglevel', 'error', '-i', f'{OUT}/Djoined_{VID}.mp4', '-i', AUD, '-map', '0:v', '-map', '1:a', '-c:v', 'copy', '-c:a', 'aac', '-b:a', '192k',
+         SPEC['file'].replace('s2_','d2_')])
     print('fertig')
