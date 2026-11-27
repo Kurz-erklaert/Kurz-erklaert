@@ -32,3 +32,4 @@ Jeder Agent ist eine geplante Aufgabe in der Cloud. Er startet ohne Gedächtnis,
 - plan/themen.json: Themenliste mit Status, bereits genutzte Themen (Skript-Autor)
 - plan/skripte/*.json: ein Skript je Video, Format siehe agenten/skript-regeln.md
 - status.json: Gesundheitszustand (Wächter)
+- Beispiel: agenten/beispiel_skript.json. Prüfen: python3 agenten/pruefe_skript.py [datei]

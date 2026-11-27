@@ -1,0 +1,99 @@
+{
+ "id": "s3_00_beispiel",
+ "thema": "Heizung entlüften (Beispiel für das Format)",
+ "kategorie": "Wohnen",
+ "variante": "B",
+ "stil": "flat",
+ "scenes": [
+  {
+   "zeilen": [
+    "So wird deine kalte Heizung",
+    "wieder richtig warm."
+   ],
+   "schluesselwoerter": [
+    "warm."
+   ]
+  },
+  {
+   "zeilen": [
+    "Meistens ist Luft",
+    "im Heizkörper."
+   ],
+   "schluesselwoerter": [
+    "Luft"
+   ]
+  },
+  {
+   "zeilen": [
+    "Sie steigt nach oben und verdrängt das heiße Wasser,",
+    "deshalb bleibt der Heizkörper oben kalt.",
+    "Drei Schritte helfen."
+   ],
+   "schluesselwoerter": [
+    "Wasser,",
+    "kalt."
+   ]
+  },
+  {
+   "zeilen": [
+    "Erstens: Halte ein Tuch",
+    "unter das Entlüftungsventil."
+   ],
+   "schluesselwoerter": [
+    "Tuch"
+   ]
+  },
+  {
+   "zeilen": [
+    "Zweitens: Öffne es mit dem Schlüssel,",
+    "bis Wasser statt Luft kommt."
+   ],
+   "schluesselwoerter": [
+    "Wasser"
+   ]
+  },
+  {
+   "zeilen": [
+    "Drittens: Schließ es wieder",
+    "und prüfe den Druck der Anlage."
+   ],
+   "schluesselwoerter": [
+    "Druck"
+   ]
+  },
+  {
+   "zeilen": [
+    "Merk dir:",
+    "Tuch, öffnen, Druck prüfen."
+   ],
+   "schluesselwoerter": [
+    "Tuch",
+    "öffnen",
+    "Druck"
+   ]
+  }
+ ],
+ "merksatz_woerter": [
+  "Tuch",
+  "öffnen",
+  "Druck"
+ ],
+ "bildideen": [
+  "Heizkörper unten warm, oben kalt",
+  "Luftblasen im Heizkörper",
+  "Wärmeverlauf oben kalt, unten warm",
+  "Ventil oben, Tuch darunter",
+  "Schlüssel am Ventil, Wasser tropft",
+  "Manometer im grünen Bereich",
+  "Heizkörper warm, Merkwörter"
+ ],
+ "caption": "So wird deine kalte Heizung wieder richtig warm 🔥 Meistens steckt Luft im Heizkörper, die das heiße Wasser verdrängt.\nTuch drunter, Ventil öffnen, Druck prüfen 🔧 (Bei Unsicherheit: Hausverwaltung oder Fachbetrieb fragen.)\nGluckert deine Heizung auch manchmal? 👇\n#heizung #heizkörper #alltagswissen #technikerklärt #kurzwissen",
+ "quellen": [],
+ "status": "produziert",
+ "faktencheck": {
+  "ergebnis": "ok",
+  "notizen": "Beispiel, nicht neu prüfen",
+  "geprueft_am": "2026-11-27"
+ },
+ "erstellt_am": "2026-11-27"
+}
