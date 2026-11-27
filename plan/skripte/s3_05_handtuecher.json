@@ -1,114 +1,114 @@
 {
- "id": "s3_05_handtuecher",
- "thema": "Handtücher werden hart",
- "kategorie": "Haushalt",
- "variante": "A",
- "stil": "flat",
- "scenes": [
-  {
-   "zeilen": [
-    "Dieser Fehler kann",
-    "deine Handtücher hart machen."
-   ],
-   "schluesselwoerter": [
-    "hart"
-   ]
+  "id": "s3_05_handtuecher",
+  "thema": "Handtücher werden hart",
+  "kategorie": "Haushalt",
+  "variante": "A",
+  "stil": "flat",
+  "scenes": [
+    {
+      "zeilen": [
+        "Dieser Fehler kann",
+        "deine Handtücher hart machen."
+      ],
+      "schluesselwoerter": [
+        "hart"
+      ]
+    },
+    {
+      "zeilen": [
+        "Du nimmst beim Waschen",
+        "zu viel Waschmittel."
+      ],
+      "schluesselwoerter": [
+        "Waschmittel."
+      ]
+    },
+    {
+      "zeilen": [
+        "Reste davon können in den Fasern hängen bleiben.",
+        "Drei Dinge helfen."
+      ],
+      "schluesselwoerter": [
+        "Fasern"
+      ]
+    },
+    {
+      "zeilen": [
+        "Erstens: Dosiere das Waschmittel",
+        "genau nach der Packung."
+      ],
+      "schluesselwoerter": [
+        "Packung."
+      ]
+    },
+    {
+      "zeilen": [
+        "Zweitens: Stopf die Trommel",
+        "nicht zu voll."
+      ],
+      "schluesselwoerter": [
+        "voll."
+      ]
+    },
+    {
+      "zeilen": [
+        "Drittens: Schüttle die Handtücher",
+        "vor dem Trocknen kräftig aus."
+      ],
+      "schluesselwoerter": [
+        "Schüttle"
+      ]
+    },
+    {
+      "zeilen": [
+        "Merk dir:",
+        "Richtig dosieren, Platz, ausschütteln."
+      ],
+      "schluesselwoerter": [
+        "dosieren,",
+        "Platz,",
+        "ausschütteln."
+      ]
+    }
+  ],
+  "merksatz_woerter": [
+    "dosieren",
+    "Platz",
+    "ausschütteln"
+  ],
+  "bildideen": [
+    "Steifes Handtuch, das von selbst steht",
+    "Zu voller Messbecher mit Waschmittel",
+    "Nahaufnahme Fasern mit Rückständen",
+    "Messbecher mit Markierung neben der Packung",
+    "Waschtrommel mit freiem Platz",
+    "Handtuch wird ausgeschüttelt",
+    "Flauschiger Handtuchstapel, Merkwörter"
+  ],
+  "caption": "Dieser Fehler kann deine Handtücher hart machen 🧺 Zu viel Waschmittel kann Reste in den Fasern hinterlassen, auch Kalk macht sie steif.\nRichtig dosieren 🥄 Trommel nicht stopfen 🌀 kräftig ausschütteln 💨\nSind deine Handtücher weich oder kratzig? 👇\nStimme: KI 🎙️\n#handtücher #wäsche #alltagswissen #kurzwissen #haushaltstipps",
+  "quellen": [
+    {
+      "titel": "Öko-Test: Handtücher weich bekommen ohne Weichspüler",
+      "url": "https://www.oekotest.de/freizeit-technik/Handtuecher-weich-bekommen-So-klappts-ohne-Weichspueler_12986_1.html"
+    },
+    {
+      "titel": "Umweltbundesamt: Wäsche waschen, Waschmittel",
+      "url": "https://www.umweltbundesamt.de/umwelttipps-fuer-den-alltag/haushalt-wohnen/waesche-waschen-waschmittel"
+    },
+    {
+      "titel": "Hohenstein: Interview zur Handtuchpflege (2021)",
+      "url": "https://www.hohenstein.de/fileadmin/user_upload/Downloads/Publications/Einfach_Hausgemacht_Interwiew_Dr_Beringer_5-2021.pdf"
+    },
+    {
+      "titel": "Stuttgarter Zeitung: Kratzige Handtücher wieder weich",
+      "url": "https://www.stuttgarter-zeitung.de/wissen/kratzige-handtuecher-wieder-weich-mhsd-79217536.html"
+    }
+  ],
+  "status": "geprueft",
+  "faktencheck": {
+    "ergebnis": "ok",
+    "notizen": "Alles belegt: Öko-Test (Kalk und Waschmittelrückstände durch Überdosierung, nicht überladen); Stuttgarter Zeitung (Rückstände machen rau, Trommel nicht zu voll); Umweltbundesamt (nach Packungsangabe, Verschmutzung und Wasserhärte dosieren); Hohenstein (vor dem Aufhängen kräftig ausschütteln). Keine Textänderung.",
+    "geprueft_am": "2026-11-27"
   },
-  {
-   "zeilen": [
-    "Du nimmst beim Waschen",
-    "zu viel Waschmittel."
-   ],
-   "schluesselwoerter": [
-    "Waschmittel."
-   ]
-  },
-  {
-   "zeilen": [
-    "Reste davon können in den Fasern hängen bleiben.",
-    "Drei Dinge helfen."
-   ],
-   "schluesselwoerter": [
-    "Fasern"
-   ]
-  },
-  {
-   "zeilen": [
-    "Erstens: Dosiere das Waschmittel",
-    "genau nach der Packung."
-   ],
-   "schluesselwoerter": [
-    "Packung."
-   ]
-  },
-  {
-   "zeilen": [
-    "Zweitens: Stopf die Trommel",
-    "nicht zu voll."
-   ],
-   "schluesselwoerter": [
-    "voll."
-   ]
-  },
-  {
-   "zeilen": [
-    "Drittens: Schüttle die Handtücher",
-    "vor dem Trocknen kräftig aus."
-   ],
-   "schluesselwoerter": [
-    "Schüttle"
-   ]
-  },
-  {
-   "zeilen": [
-    "Merk dir:",
-    "Richtig dosieren, Platz, ausschütteln."
-   ],
-   "schluesselwoerter": [
-    "dosieren,",
-    "Platz,",
-    "ausschütteln."
-   ]
-  }
- ],
- "merksatz_woerter": [
-  "dosieren",
-  "Platz",
-  "ausschütteln"
- ],
- "bildideen": [
-  "Steifes Handtuch, das von selbst steht",
-  "Zu voller Messbecher mit Waschmittel",
-  "Nahaufnahme Fasern mit Rückständen",
-  "Messbecher mit Markierung neben der Packung",
-  "Waschtrommel mit freiem Platz",
-  "Handtuch wird ausgeschüttelt",
-  "Flauschiger Handtuchstapel, Merkwörter"
- ],
- "caption": "Dieser Fehler kann deine Handtücher hart machen 🧺 Zu viel Waschmittel kann Reste in den Fasern hinterlassen, auch Kalk macht sie steif.\nRichtig dosieren 🥄 Trommel nicht stopfen 🌀 kräftig ausschütteln 💨\nSind deine Handtücher weich oder kratzig? 👇\n#handtücher #wäsche #alltagswissen #kurzwissen #haushaltstipps",
- "quellen": [
-  {
-   "titel": "Öko-Test: Handtücher weich bekommen ohne Weichspüler",
-   "url": "https://www.oekotest.de/freizeit-technik/Handtuecher-weich-bekommen-So-klappts-ohne-Weichspueler_12986_1.html"
-  },
-  {
-   "titel": "Umweltbundesamt: Wäsche waschen, Waschmittel",
-   "url": "https://www.umweltbundesamt.de/umwelttipps-fuer-den-alltag/haushalt-wohnen/waesche-waschen-waschmittel"
-  },
-  {
-   "titel": "Hohenstein: Interview zur Handtuchpflege (2021)",
-   "url": "https://www.hohenstein.de/fileadmin/user_upload/Downloads/Publications/Einfach_Hausgemacht_Interwiew_Dr_Beringer_5-2021.pdf"
-  },
-  {
-   "titel": "Stuttgarter Zeitung: Kratzige Handtücher wieder weich",
-   "url": "https://www.stuttgarter-zeitung.de/wissen/kratzige-handtuecher-wieder-weich-mhsd-79217536.html"
-  }
- ],
- "status": "geprueft",
- "faktencheck": {
-  "ergebnis": "ok",
-  "notizen": "Alles belegt: Öko-Test (Kalk und Waschmittelrückstände durch Überdosierung, nicht überladen); Stuttgarter Zeitung (Rückstände machen rau, Trommel nicht zu voll); Umweltbundesamt (nach Packungsangabe, Verschmutzung und Wasserhärte dosieren); Hohenstein (vor dem Aufhängen kräftig ausschütteln). Keine Textänderung.",
-  "geprueft_am": "2026-11-27"
- },
- "erstellt_am": "2026-11-27"
+  "erstellt_am": "2026-11-27"
 }

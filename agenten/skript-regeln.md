@@ -50,3 +50,6 @@ Statuswerte: skript → (Faktenprüfer) geprueft | ueberarbeiten | abgelehnt →
 - ueberarbeiten: kleine Korrektur möglich (Wortwahl, Einschränkung ergänzen). Der Prüfer darf die Texte selbst abschwächen oder korrigieren, aber nur im Rahmen der Regeln oben, und trägt die Änderung in notizen ein. Nach der Korrektur ergebnis „ok".
 - abgelehnt: nicht belegbar, riskant oder medizinisch. Grund in notizen, Thema in plan/themen.json auf „abgelehnt" setzen.
 - Sicherheitsrelevantes (Strom, Gas, Heizungsanlage, Chemikalien, Druck) braucht einen Warnhinweis in der Caption („Bei Unsicherheit Fachbetrieb fragen") und passende Formulierung („meist", „in der Regel").
+
+## Pflichtzeile KI-Stimme (seit 27.11.2026)
+Jede Caption enthält direkt vor der Hashtag-Zeile die eigene Zeile `Stimme: KI 🎙️` (Meta verlangt Kennzeichnung realistischer KI-Stimmen). Sie ist kein Hashtag; es bleiben genau 5 Hashtags.

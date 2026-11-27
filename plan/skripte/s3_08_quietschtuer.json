@@ -1,107 +1,107 @@
 {
- "id": "s3_08_quietschtuer",
- "thema": "Zimmertür quietscht",
- "kategorie": "Wohnen",
- "variante": "B",
- "stil": "flat",
- "scenes": [
-  {
-   "zeilen": [
-    "So wird deine quietschende Tür",
-    "oft wieder leise."
-   ],
-   "schluesselwoerter": [
-    "leise."
-   ]
+  "id": "s3_08_quietschtuer",
+  "thema": "Zimmertür quietscht",
+  "kategorie": "Wohnen",
+  "variante": "B",
+  "stil": "flat",
+  "scenes": [
+    {
+      "zeilen": [
+        "So wird deine quietschende Tür",
+        "oft wieder leise."
+      ],
+      "schluesselwoerter": [
+        "leise."
+      ]
+    },
+    {
+      "zeilen": [
+        "Oft reiben die Scharniere",
+        "trocken aufeinander."
+      ],
+      "schluesselwoerter": [
+        "Scharniere"
+      ]
+    },
+    {
+      "zeilen": [
+        "Auch Schmutz in den Scharnieren",
+        "kann das Geräusch machen.",
+        "Drei Schritte helfen."
+      ],
+      "schluesselwoerter": [
+        "Schmutz"
+      ]
+    },
+    {
+      "zeilen": [
+        "Erstens: Heb die Tür leicht an,",
+        "damit Öl dazwischen kommt."
+      ],
+      "schluesselwoerter": [
+        "Öl"
+      ]
+    },
+    {
+      "zeilen": [
+        "Zweitens: Gib wenige Tropfen",
+        "Nähmaschinenöl an das Scharnier."
+      ],
+      "schluesselwoerter": [
+        "Nähmaschinenöl"
+      ]
+    },
+    {
+      "zeilen": [
+        "Drittens: Wisch Reste ab",
+        "und prüf, ob es noch quietscht."
+      ],
+      "schluesselwoerter": [
+        "Wisch"
+      ]
+    },
+    {
+      "zeilen": [
+        "Merk dir:",
+        "Anheben, ölen, abwischen."
+      ],
+      "schluesselwoerter": [
+        "Anheben,",
+        "ölen,",
+        "abwischen."
+      ]
+    }
+  ],
+  "merksatz_woerter": [
+    "Anheben",
+    "ölen",
+    "abwischen"
+  ],
+  "bildideen": [
+    "Zimmertür mit Quietsch-Wellen",
+    "Scharnier in Nahaufnahme, Metall reibt",
+    "Staub und Ablagerungen am Scharnier",
+    "Tür wird am Scharnier leicht angehoben",
+    "Ölfläschchen gibt Tropfen aufs Scharnier",
+    "Tür schwingt hin und her, Tuch wischt",
+    "Leise Tür, Merkwörter"
+  ],
+  "caption": "So wird deine quietschende Tür oft wieder leise 🚪 Oft fehlt den Scharnieren Schmierung, oder es sitzt Schmutz darin.\nLeicht anheben ⬆️ wenig Öl 💧 Reste abwischen 🧽 (Nur leicht anheben, nicht aushängen, und auf deine Finger achten. Bei Rost oder Schmutz reicht Öl allein oft nicht.)\nWelche Tür quietscht bei dir? 👇\nStimme: KI 🎙️\n#quietschendetür #heimwerken #alltagswissen #kurzwissen #haushaltstipps",
+  "quellen": [
+    {
+      "titel": "toom Baumarkt: Tür einstellen",
+      "url": "https://toom.de/selbermachen/bauen-renovieren/tueren/tuer-einstellen/"
+    },
+    {
+      "titel": "sanier.de: Innentür quietscht, das hilft",
+      "url": "https://www.sanier.de/innentueren/innentuer-quietscht-das-hilft"
+    }
+  ],
+  "status": "geprueft",
+  "faktencheck": {
+    "ergebnis": "ok",
+    "notizen": "Geändert: 'meist' auf 'oft' (laut sanier.de reicht Öl bei Rost oder Ablagerungen nicht). Dritter Tipp 'Tür mehrmals bewegen' war in den Quellen nicht belegt und wurde durch 'Reste abwischen und prüfen' ersetzt (toom); Merksatz und Caption angepasst, Hinweis zum vorsichtigen Anheben ergänzt. Belegt: trockene bzw. verschmutzte Scharniere als Ursache, leicht anheben, wenig Nähmaschinenöl (toom, sanier.de).",
+    "geprueft_am": "2026-11-27"
   },
-  {
-   "zeilen": [
-    "Oft reiben die Scharniere",
-    "trocken aufeinander."
-   ],
-   "schluesselwoerter": [
-    "Scharniere"
-   ]
-  },
-  {
-   "zeilen": [
-    "Auch Schmutz in den Scharnieren",
-    "kann das Geräusch machen.",
-    "Drei Schritte helfen."
-   ],
-   "schluesselwoerter": [
-    "Schmutz"
-   ]
-  },
-  {
-   "zeilen": [
-    "Erstens: Heb die Tür leicht an,",
-    "damit Öl dazwischen kommt."
-   ],
-   "schluesselwoerter": [
-    "Öl"
-   ]
-  },
-  {
-   "zeilen": [
-    "Zweitens: Gib wenige Tropfen",
-    "Nähmaschinenöl an das Scharnier."
-   ],
-   "schluesselwoerter": [
-    "Nähmaschinenöl"
-   ]
-  },
-  {
-   "zeilen": [
-    "Drittens: Wisch Reste ab",
-    "und prüf, ob es noch quietscht."
-   ],
-   "schluesselwoerter": [
-    "Wisch"
-   ]
-  },
-  {
-   "zeilen": [
-    "Merk dir:",
-    "Anheben, ölen, abwischen."
-   ],
-   "schluesselwoerter": [
-    "Anheben,",
-    "ölen,",
-    "abwischen."
-   ]
-  }
- ],
- "merksatz_woerter": [
-  "Anheben",
-  "ölen",
-  "abwischen"
- ],
- "bildideen": [
-  "Zimmertür mit Quietsch-Wellen",
-  "Scharnier in Nahaufnahme, Metall reibt",
-  "Staub und Ablagerungen am Scharnier",
-  "Tür wird am Scharnier leicht angehoben",
-  "Ölfläschchen gibt Tropfen aufs Scharnier",
-  "Tür schwingt hin und her, Tuch wischt",
-  "Leise Tür, Merkwörter"
- ],
- "caption": "So wird deine quietschende Tür oft wieder leise 🚪 Oft fehlt den Scharnieren Schmierung, oder es sitzt Schmutz darin.\nLeicht anheben ⬆️ wenig Öl 💧 Reste abwischen 🧽 (Nur leicht anheben, nicht aushängen, und auf deine Finger achten. Bei Rost oder Schmutz reicht Öl allein oft nicht.)\nWelche Tür quietscht bei dir? 👇\n#quietschendetür #heimwerken #alltagswissen #kurzwissen #haushaltstipps",
- "quellen": [
-  {
-   "titel": "toom Baumarkt: Tür einstellen",
-   "url": "https://toom.de/selbermachen/bauen-renovieren/tueren/tuer-einstellen/"
-  },
-  {
-   "titel": "sanier.de: Innentür quietscht, das hilft",
-   "url": "https://www.sanier.de/innentueren/innentuer-quietscht-das-hilft"
-  }
- ],
- "status": "geprueft",
- "faktencheck": {
-  "ergebnis": "ok",
-  "notizen": "Geändert: 'meist' auf 'oft' (laut sanier.de reicht Öl bei Rost oder Ablagerungen nicht). Dritter Tipp 'Tür mehrmals bewegen' war in den Quellen nicht belegt und wurde durch 'Reste abwischen und prüfen' ersetzt (toom); Merksatz und Caption angepasst, Hinweis zum vorsichtigen Anheben ergänzt. Belegt: trockene bzw. verschmutzte Scharniere als Ursache, leicht anheben, wenig Nähmaschinenöl (toom, sanier.de).",
-  "geprueft_am": "2026-11-27"
- },
- "erstellt_am": "2026-11-27"
+  "erstellt_am": "2026-11-27"
 }

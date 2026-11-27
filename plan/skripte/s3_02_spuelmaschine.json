@@ -1,108 +1,108 @@
 {
- "id": "s3_02_spuelmaschine",
- "thema": "Spülmaschine spült nicht sauber",
- "kategorie": "Haushalt",
- "variante": "B",
- "stil": "flat",
- "scenes": [
-  {
-   "zeilen": [
-    "So wird dein Geschirr",
-    "oft wieder richtig sauber."
-   ],
-   "schluesselwoerter": [
-    "sauber."
-   ]
-  },
-  {
-   "zeilen": [
-    "Oft kommt das Wasser",
-    "nicht überall richtig hin."
-   ],
-   "schluesselwoerter": [
-    "Wasser"
-   ]
-  },
-  {
-   "zeilen": [
-    "Etwa weil das Sieb",
-    "oder die Sprüharme verstopft sind.",
-    "Drei Schritte helfen."
-   ],
-   "schluesselwoerter": [
-    "Sieb",
-    "Sprüharme"
-   ]
-  },
-  {
-   "zeilen": [
-    "Erstens: Nimm das Sieb heraus",
-    "und spüle es gründlich ab."
-   ],
-   "schluesselwoerter": [
-    "Sieb"
-   ]
-  },
-  {
-   "zeilen": [
-    "Zweitens: Prüfe, ob die Düsen",
-    "an den Sprüharmen frei sind."
-   ],
-   "schluesselwoerter": [
-    "Düsen"
-   ]
-  },
-  {
-   "zeilen": [
-    "Drittens: Räume so ein,",
-    "dass sich die Arme frei drehen."
-   ],
-   "schluesselwoerter": [
-    "frei"
-   ]
-  },
-  {
-   "zeilen": [
-    "Merk dir:",
-    "Sieb, Düsen, freie Arme."
-   ],
-   "schluesselwoerter": [
+  "id": "s3_02_spuelmaschine",
+  "thema": "Spülmaschine spült nicht sauber",
+  "kategorie": "Haushalt",
+  "variante": "B",
+  "stil": "flat",
+  "scenes": [
+    {
+      "zeilen": [
+        "So wird dein Geschirr",
+        "oft wieder richtig sauber."
+      ],
+      "schluesselwoerter": [
+        "sauber."
+      ]
+    },
+    {
+      "zeilen": [
+        "Oft kommt das Wasser",
+        "nicht überall richtig hin."
+      ],
+      "schluesselwoerter": [
+        "Wasser"
+      ]
+    },
+    {
+      "zeilen": [
+        "Etwa weil das Sieb",
+        "oder die Sprüharme verstopft sind.",
+        "Drei Schritte helfen."
+      ],
+      "schluesselwoerter": [
+        "Sieb",
+        "Sprüharme"
+      ]
+    },
+    {
+      "zeilen": [
+        "Erstens: Nimm das Sieb heraus",
+        "und spüle es gründlich ab."
+      ],
+      "schluesselwoerter": [
+        "Sieb"
+      ]
+    },
+    {
+      "zeilen": [
+        "Zweitens: Prüfe, ob die Düsen",
+        "an den Sprüharmen frei sind."
+      ],
+      "schluesselwoerter": [
+        "Düsen"
+      ]
+    },
+    {
+      "zeilen": [
+        "Drittens: Räume so ein,",
+        "dass sich die Arme frei drehen."
+      ],
+      "schluesselwoerter": [
+        "frei"
+      ]
+    },
+    {
+      "zeilen": [
+        "Merk dir:",
+        "Sieb, Düsen, freie Arme."
+      ],
+      "schluesselwoerter": [
+        "Sieb",
+        "Düsen",
+        "Arme."
+      ]
+    }
+  ],
+  "merksatz_woerter": [
     "Sieb",
     "Düsen",
-    "Arme."
-   ]
-  }
- ],
- "merksatz_woerter": [
-  "Sieb",
-  "Düsen",
-  "Arme"
- ],
- "bildideen": [
-  "Teller mit Resten in offener Spülmaschine",
-  "Wasserstrahl, der Teller nicht erreicht",
-  "Verstopftes Sieb und Sprüharm",
-  "Sieb unter dem Wasserhahn",
-  "Sprüharm in Nahaufnahme, Düsen werden frei",
-  "Eingeräumter Korb, Sprüharm dreht sich",
-  "Saubere glänzende Teller, Merkwörter"
- ],
- "caption": "So wird dein Geschirr oft wieder richtig sauber ✨ Ein verstopftes Sieb oder blockierte Sprüharme können der Grund sein.\nSieb spülen 🚿 Düsen prüfen 🔍 Arme frei drehen lassen 🔄 (Schau vorher in die Anleitung deines Geräts.)\nWann hast du dein Sieb zuletzt gereinigt? 👇\n#spülmaschine #geschirrspüler #alltagswissen #kurzwissen #haushaltstipps",
- "quellen": [
-  {
-   "titel": "Bosch: Gebrauchsanleitung Geschirrspüler (9001431696)",
-   "url": "https://media3.bosch-home.com/Documents/9001431696_A.pdf"
+    "Arme"
+  ],
+  "bildideen": [
+    "Teller mit Resten in offener Spülmaschine",
+    "Wasserstrahl, der Teller nicht erreicht",
+    "Verstopftes Sieb und Sprüharm",
+    "Sieb unter dem Wasserhahn",
+    "Sprüharm in Nahaufnahme, Düsen werden frei",
+    "Eingeräumter Korb, Sprüharm dreht sich",
+    "Saubere glänzende Teller, Merkwörter"
+  ],
+  "caption": "So wird dein Geschirr oft wieder richtig sauber ✨ Ein verstopftes Sieb oder blockierte Sprüharme können der Grund sein.\nSieb spülen 🚿 Düsen prüfen 🔍 Arme frei drehen lassen 🔄 (Schau vorher in die Anleitung deines Geräts.)\nWann hast du dein Sieb zuletzt gereinigt? 👇\nStimme: KI 🎙️\n#spülmaschine #geschirrspüler #alltagswissen #kurzwissen #haushaltstipps",
+  "quellen": [
+    {
+      "titel": "Bosch: Gebrauchsanleitung Geschirrspüler (9001431696)",
+      "url": "https://media3.bosch-home.com/Documents/9001431696_A.pdf"
+    },
+    {
+      "titel": "Siemens Hausgeräte: Geschirrspüler reinigt nicht richtig",
+      "url": "https://www.siemens-home.bsh-group.com/de/kundendienst/hilfe/probleme/spuelmaschine/reinigt-nicht-richtig"
+    }
+  ],
+  "status": "geprueft",
+  "faktencheck": {
+    "ergebnis": "ok",
+    "notizen": "Alles belegt: Bosch-Gebrauchsanleitung (Siebe herausnehmen und unter fließendem Wasser reinigen, Düsen der Sprüharme auf Verstopfung prüfen, Sprüharme nicht blockieren); Siemens-Hilfeseite (verstopfter Filter bzw. Sprüharme als Ursache für schlechtes Spülergebnis). Formulierungen mit 'oft' und 'etwa' sind ausreichend vorsichtig. Keine Textänderung.",
+    "geprueft_am": "2026-11-27"
   },
-  {
-   "titel": "Siemens Hausgeräte: Geschirrspüler reinigt nicht richtig",
-   "url": "https://www.siemens-home.bsh-group.com/de/kundendienst/hilfe/probleme/spuelmaschine/reinigt-nicht-richtig"
-  }
- ],
- "status": "geprueft",
- "faktencheck": {
-  "ergebnis": "ok",
-  "notizen": "Alles belegt: Bosch-Gebrauchsanleitung (Siebe herausnehmen und unter fließendem Wasser reinigen, Düsen der Sprüharme auf Verstopfung prüfen, Sprüharme nicht blockieren); Siemens-Hilfeseite (verstopfter Filter bzw. Sprüharme als Ursache für schlechtes Spülergebnis). Formulierungen mit 'oft' und 'etwa' sind ausreichend vorsichtig. Keine Textänderung.",
-  "geprueft_am": "2026-11-27"
- },
- "erstellt_am": "2026-11-27"
+  "erstellt_am": "2026-11-27"
 }

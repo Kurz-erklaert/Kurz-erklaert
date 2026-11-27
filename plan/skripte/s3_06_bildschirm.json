@@ -1,102 +1,102 @@
 {
- "id": "s3_06_bildschirm",
- "thema": "Fernseher-Bildschirm richtig reinigen",
- "kategorie": "Technik",
- "variante": "B",
- "stil": "flat",
- "scenes": [
-  {
-   "zeilen": [
-    "So wird dein Bildschirm",
-    "schonend wieder sauber."
-   ],
-   "schluesselwoerter": [
-    "sauber."
-   ]
+  "id": "s3_06_bildschirm",
+  "thema": "Fernseher-Bildschirm richtig reinigen",
+  "kategorie": "Technik",
+  "variante": "B",
+  "stil": "flat",
+  "scenes": [
+    {
+      "zeilen": [
+        "So wird dein Bildschirm",
+        "schonend wieder sauber."
+      ],
+      "schluesselwoerter": [
+        "sauber."
+      ]
+    },
+    {
+      "zeilen": [
+        "Glasreiniger und Küchenpapier",
+        "können ihm schaden."
+      ],
+      "schluesselwoerter": [
+        "schaden."
+      ]
+    },
+    {
+      "zeilen": [
+        "Die Oberfläche ist oft empfindlicher, als du denkst.",
+        "Drei Schritte helfen."
+      ],
+      "schluesselwoerter": [
+        "empfindlicher,"
+      ]
+    },
+    {
+      "zeilen": [
+        "Erstens: Schalte das Gerät aus",
+        "und zieh den Stecker."
+      ],
+      "schluesselwoerter": [
+        "Stecker."
+      ]
+    },
+    {
+      "zeilen": [
+        "Zweitens: Wische sanft",
+        "mit trockenem Mikrofasertuch."
+      ],
+      "schluesselwoerter": [
+        "Mikrofasertuch."
+      ]
+    },
+    {
+      "zeilen": [
+        "Drittens: Bei Flecken nur das Tuch",
+        "mit destilliertem Wasser anfeuchten."
+      ],
+      "schluesselwoerter": [
+        "Tuch"
+      ]
+    },
+    {
+      "zeilen": [
+        "Merk dir:",
+        "Ausschalten, Mikrofaser, nie sprühen."
+      ],
+      "schluesselwoerter": [
+        "Ausschalten,",
+        "Mikrofaser,",
+        "sprühen."
+      ]
+    }
+  ],
+  "merksatz_woerter": [
+    "Ausschalten",
+    "Mikrofaser",
+    "sprühen"
+  ],
+  "bildideen": [
+    "Fernseher mit Fingerabdrücken",
+    "Glasreiniger und Küchenrolle, rot durchgestrichen",
+    "Lupe auf die Bildschirmoberfläche",
+    "Fernseher aus, Stecker wird gezogen",
+    "Mikrofasertuch wischt ohne Druck",
+    "Leicht feuchtes, ausgewrungenes Tuch",
+    "Sauberer Fernseher, Merkwörter"
+  ],
+  "caption": "So wird dein Bildschirm schonend wieder sauber 📺 Glasreiniger und Küchenpapier können die Oberfläche beschädigen.\nStecker ziehen 🔌 Mikrofasertuch 🧽 nie direkt sprühen 🚫 (Tuch nur leicht befeuchten, gut ausdrücken, alles trocknen lassen, bevor der Stecker wieder reinkommt, und die Anleitung beachten.)\nWomit putzt du deinen Fernseher? 👇\nStimme: KI 🎙️\n#fernseher #bildschirm #alltagswissen #kurzwissen #technikerklärt",
+  "quellen": [
+    {
+      "titel": "Samsung Support: Fernseherbildschirm reinigen",
+      "url": "https://www.samsung.com/de/support/tv-audio-video/tipps-zum-reinigen-deines-tv-bildschirms"
+    }
+  ],
+  "status": "geprueft",
+  "faktencheck": {
+    "ergebnis": "ok",
+    "notizen": "Samsung-Support belegt: ausschalten, abkühlen, Stecker ziehen; trockenes Mikrofasertuch ohne Druck; bei hartnäckigem Schmutz Tuch mit destilliertem Wasser befeuchten und ausdrücken; nie direkt sprühen; kein Glasreiniger, keine Papiertücher. Geändert: In der Caption Hinweis ergänzt, vor dem Wiederanschließen vollständig trocknen zu lassen (laut Hersteller).",
+    "geprueft_am": "2026-11-27"
   },
-  {
-   "zeilen": [
-    "Glasreiniger und Küchenpapier",
-    "können ihm schaden."
-   ],
-   "schluesselwoerter": [
-    "schaden."
-   ]
-  },
-  {
-   "zeilen": [
-    "Die Oberfläche ist oft empfindlicher, als du denkst.",
-    "Drei Schritte helfen."
-   ],
-   "schluesselwoerter": [
-    "empfindlicher,"
-   ]
-  },
-  {
-   "zeilen": [
-    "Erstens: Schalte das Gerät aus",
-    "und zieh den Stecker."
-   ],
-   "schluesselwoerter": [
-    "Stecker."
-   ]
-  },
-  {
-   "zeilen": [
-    "Zweitens: Wische sanft",
-    "mit trockenem Mikrofasertuch."
-   ],
-   "schluesselwoerter": [
-    "Mikrofasertuch."
-   ]
-  },
-  {
-   "zeilen": [
-    "Drittens: Bei Flecken nur das Tuch",
-    "mit destilliertem Wasser anfeuchten."
-   ],
-   "schluesselwoerter": [
-    "Tuch"
-   ]
-  },
-  {
-   "zeilen": [
-    "Merk dir:",
-    "Ausschalten, Mikrofaser, nie sprühen."
-   ],
-   "schluesselwoerter": [
-    "Ausschalten,",
-    "Mikrofaser,",
-    "sprühen."
-   ]
-  }
- ],
- "merksatz_woerter": [
-  "Ausschalten",
-  "Mikrofaser",
-  "sprühen"
- ],
- "bildideen": [
-  "Fernseher mit Fingerabdrücken",
-  "Glasreiniger und Küchenrolle, rot durchgestrichen",
-  "Lupe auf die Bildschirmoberfläche",
-  "Fernseher aus, Stecker wird gezogen",
-  "Mikrofasertuch wischt ohne Druck",
-  "Leicht feuchtes, ausgewrungenes Tuch",
-  "Sauberer Fernseher, Merkwörter"
- ],
- "caption": "So wird dein Bildschirm schonend wieder sauber 📺 Glasreiniger und Küchenpapier können die Oberfläche beschädigen.\nStecker ziehen 🔌 Mikrofasertuch 🧽 nie direkt sprühen 🚫 (Tuch nur leicht befeuchten, gut ausdrücken, alles trocknen lassen, bevor der Stecker wieder reinkommt, und die Anleitung beachten.)\nWomit putzt du deinen Fernseher? 👇\n#fernseher #bildschirm #alltagswissen #kurzwissen #technikerklärt",
- "quellen": [
-  {
-   "titel": "Samsung Support: Fernseherbildschirm reinigen",
-   "url": "https://www.samsung.com/de/support/tv-audio-video/tipps-zum-reinigen-deines-tv-bildschirms"
-  }
- ],
- "status": "geprueft",
- "faktencheck": {
-  "ergebnis": "ok",
-  "notizen": "Samsung-Support belegt: ausschalten, abkühlen, Stecker ziehen; trockenes Mikrofasertuch ohne Druck; bei hartnäckigem Schmutz Tuch mit destilliertem Wasser befeuchten und ausdrücken; nie direkt sprühen; kein Glasreiniger, keine Papiertücher. Geändert: In der Caption Hinweis ergänzt, vor dem Wiederanschließen vollständig trocknen zu lassen (laut Hersteller).",
-  "geprueft_am": "2026-11-27"
- },
- "erstellt_am": "2026-11-27"
+  "erstellt_am": "2026-11-27"
 }

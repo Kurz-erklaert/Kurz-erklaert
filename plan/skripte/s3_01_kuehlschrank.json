@@ -1,108 +1,108 @@
 {
- "id": "s3_01_kuehlschrank",
- "thema": "Kühlschrank richtig einräumen",
- "kategorie": "Küche",
- "variante": "A",
- "stil": "flat",
- "scenes": [
-  {
-   "zeilen": [
-    "Dieser Fehler lässt im Kühlschrank",
-    "dein Essen oft schneller verderben."
-   ],
-   "schluesselwoerter": [
-    "Fehler",
-    "verderben."
-   ]
+  "id": "s3_01_kuehlschrank",
+  "thema": "Kühlschrank richtig einräumen",
+  "kategorie": "Küche",
+  "variante": "A",
+  "stil": "flat",
+  "scenes": [
+    {
+      "zeilen": [
+        "Dieser Fehler lässt im Kühlschrank",
+        "dein Essen oft schneller verderben."
+      ],
+      "schluesselwoerter": [
+        "Fehler",
+        "verderben."
+      ]
+    },
+    {
+      "zeilen": [
+        "Du räumst alles dorthin,",
+        "wo gerade Platz ist."
+      ],
+      "schluesselwoerter": [
+        "Platz"
+      ]
+    },
+    {
+      "zeilen": [
+        "Aber im Kühlschrank ist es",
+        "oft nicht überall gleich kalt.",
+        "Drei Regeln helfen."
+      ],
+      "schluesselwoerter": [
+        "kalt."
+      ]
+    },
+    {
+      "zeilen": [
+        "Erstens: Fleisch und Fisch",
+        "kommen auf die untere Glasplatte."
+      ],
+      "schluesselwoerter": [
+        "Glasplatte."
+      ]
+    },
+    {
+      "zeilen": [
+        "Zweitens: Milchprodukte",
+        "gehören in die Mitte."
+      ],
+      "schluesselwoerter": [
+        "Mitte."
+      ]
+    },
+    {
+      "zeilen": [
+        "Drittens: Salat und viel Gemüse",
+        "kommen ins Gemüsefach."
+      ],
+      "schluesselwoerter": [
+        "Gemüsefach."
+      ]
+    },
+    {
+      "zeilen": [
+        "Merk dir:",
+        "Unten, Mitte, Gemüsefach."
+      ],
+      "schluesselwoerter": [
+        "Unten,",
+        "Mitte,",
+        "Gemüsefach."
+      ]
+    }
+  ],
+  "merksatz_woerter": [
+    "Unten",
+    "Mitte",
+    "Gemüsefach"
+  ],
+  "bildideen": [
+    "Offener Kühlschrank, Lebensmittel durcheinander",
+    "Volle Fächer ohne Ordnung",
+    "Kühlschrank mit farbigen Temperaturzonen",
+    "Verpacktes Fleisch und Fisch auf der unteren Glasplatte",
+    "Joghurt und Käse im mittleren Fach",
+    "Salat und Möhrengrün im Gemüsefach",
+    "Geordneter Kühlschrank, Merkwörter"
+  ],
+  "caption": "Dieser Fehler lässt im Kühlschrank dein Essen oft schneller verderben 🥶 Im Kühlschrank ist es oft nicht überall gleich kalt.\nFleisch und Fisch unten 🥩 Milchprodukte in die Mitte 🥛 Salat ins Gemüsefach 🥬 (Die Anleitung deines Geräts zählt.)\nWas liegt bei dir ganz unten? 👇\nStimme: KI 🎙️\n#kühlschrank #lebensmittellagern #alltagswissen #kurzwissen #küchentipps",
+  "quellen": [
+    {
+      "titel": "Stiftung Warentest: Kühlschrank richtig einräumen",
+      "url": "https://www.test.de/Kuehlschrank-richtig-einraeumen-7-Tipps-wie-Ihre-Lebens-mittel-laenger-frisch-bleiben-5796687-0/"
+    },
+    {
+      "titel": "Ministerium Baden-Württemberg: Lebensmittelretter Lagerung (2025)",
+      "url": "https://mlr.baden-wuerttemberg.de/fileadmin/redaktion/m-mlr/intern/dateien/PDFs/Essen_und_Trinken/2025_MLR_Flyer_Lebensmittleretter_Lagerung.pdf"
+    }
+  ],
+  "status": "geprueft",
+  "faktencheck": {
+    "ergebnis": "ok",
+    "notizen": "Geändert: im Hook und in der Caption 'oft' ergänzt (weniger absolut) und 'meist' auf 'oft' (Szene 2, Caption), weil laut MLR-Flyer Geräte mit dynamischer Kühlung überall gleich kalt sind; Stiftung Warentest beschreibt Temperaturzonen. Fleisch/Fisch auf der unteren Glasablage und Milchprodukte in der Mitte: Warentest und MLR. Salat/Gemüse ins Gemüsefach (mit Ausnahmen, daher 'viel Gemüse'): beide.",
+    "geprueft_am": "2026-11-27"
   },
-  {
-   "zeilen": [
-    "Du räumst alles dorthin,",
-    "wo gerade Platz ist."
-   ],
-   "schluesselwoerter": [
-    "Platz"
-   ]
-  },
-  {
-   "zeilen": [
-    "Aber im Kühlschrank ist es",
-    "oft nicht überall gleich kalt.",
-    "Drei Regeln helfen."
-   ],
-   "schluesselwoerter": [
-    "kalt."
-   ]
-  },
-  {
-   "zeilen": [
-    "Erstens: Fleisch und Fisch",
-    "kommen auf die untere Glasplatte."
-   ],
-   "schluesselwoerter": [
-    "Glasplatte."
-   ]
-  },
-  {
-   "zeilen": [
-    "Zweitens: Milchprodukte",
-    "gehören in die Mitte."
-   ],
-   "schluesselwoerter": [
-    "Mitte."
-   ]
-  },
-  {
-   "zeilen": [
-    "Drittens: Salat und viel Gemüse",
-    "kommen ins Gemüsefach."
-   ],
-   "schluesselwoerter": [
-    "Gemüsefach."
-   ]
-  },
-  {
-   "zeilen": [
-    "Merk dir:",
-    "Unten, Mitte, Gemüsefach."
-   ],
-   "schluesselwoerter": [
-    "Unten,",
-    "Mitte,",
-    "Gemüsefach."
-   ]
-  }
- ],
- "merksatz_woerter": [
-  "Unten",
-  "Mitte",
-  "Gemüsefach"
- ],
- "bildideen": [
-  "Offener Kühlschrank, Lebensmittel durcheinander",
-  "Volle Fächer ohne Ordnung",
-  "Kühlschrank mit farbigen Temperaturzonen",
-  "Verpacktes Fleisch und Fisch auf der unteren Glasplatte",
-  "Joghurt und Käse im mittleren Fach",
-  "Salat und Möhrengrün im Gemüsefach",
-  "Geordneter Kühlschrank, Merkwörter"
- ],
- "caption": "Dieser Fehler lässt im Kühlschrank dein Essen oft schneller verderben 🥶 Im Kühlschrank ist es oft nicht überall gleich kalt.\nFleisch und Fisch unten 🥩 Milchprodukte in die Mitte 🥛 Salat ins Gemüsefach 🥬 (Die Anleitung deines Geräts zählt.)\nWas liegt bei dir ganz unten? 👇\n#kühlschrank #lebensmittellagern #alltagswissen #kurzwissen #küchentipps",
- "quellen": [
-  {
-   "titel": "Stiftung Warentest: Kühlschrank richtig einräumen",
-   "url": "https://www.test.de/Kuehlschrank-richtig-einraeumen-7-Tipps-wie-Ihre-Lebens-mittel-laenger-frisch-bleiben-5796687-0/"
-  },
-  {
-   "titel": "Ministerium Baden-Württemberg: Lebensmittelretter Lagerung (2025)",
-   "url": "https://mlr.baden-wuerttemberg.de/fileadmin/redaktion/m-mlr/intern/dateien/PDFs/Essen_und_Trinken/2025_MLR_Flyer_Lebensmittleretter_Lagerung.pdf"
-  }
- ],
- "status": "geprueft",
- "faktencheck": {
-  "ergebnis": "ok",
-  "notizen": "Geändert: im Hook und in der Caption 'oft' ergänzt (weniger absolut) und 'meist' auf 'oft' (Szene 2, Caption), weil laut MLR-Flyer Geräte mit dynamischer Kühlung überall gleich kalt sind; Stiftung Warentest beschreibt Temperaturzonen. Fleisch/Fisch auf der unteren Glasablage und Milchprodukte in der Mitte: Warentest und MLR. Salat/Gemüse ins Gemüsefach (mit Ausnahmen, daher 'viel Gemüse'): beide.",
-  "geprueft_am": "2026-11-27"
- },
- "erstellt_am": "2026-11-27"
+  "erstellt_am": "2026-11-27"
 }
