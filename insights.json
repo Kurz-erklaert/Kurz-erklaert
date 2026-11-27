@@ -1,5 +1,5 @@
 {
- "abgerufen": "2026-11-27T14:32:32.955147Z",
+ "abgerufen": "2026-11-27T14:41:46.378215Z",
  "konto": {
   "id": "17841408250847845",
   "followers_count": 24,
@@ -14,27 +14,16 @@
    "like_count": 0,
    "comments_count": 0,
    "caption_anfang": "8 Stunden geschlafen und trotzdem platt? 😴 Das ist Schlafträ",
-   "fehler": {
-    "views": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "reach": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "likes": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "comments": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "shares": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "saved": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "total_interactions": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "ig_reels_avg_watch_time": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "ig_reels_video_view_total_time": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr"
-   },
    "insights": {
-    "views": null,
-    "reach": null,
-    "likes": null,
-    "comments": null,
-    "shares": null,
-    "saved": null,
-    "total_interactions": null,
-    "ig_reels_avg_watch_time": null,
-    "ig_reels_video_view_total_time": null
+    "views": 72,
+    "reach": 0,
+    "likes": 0,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 0,
+    "ig_reels_avg_watch_time": 4812,
+    "ig_reels_video_view_total_time": 9624
    }
   },
   {
@@ -44,27 +33,16 @@
    "like_count": 2,
    "comments_count": 0,
    "caption_anfang": "#schluckauf #gutzuwissen",
-   "fehler": {
-    "views": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "reach": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "likes": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "comments": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "shares": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "saved": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "total_interactions": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "ig_reels_avg_watch_time": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "ig_reels_video_view_total_time": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr"
-   },
    "insights": {
-    "views": null,
-    "reach": null,
-    "likes": null,
-    "comments": null,
-    "shares": null,
-    "saved": null,
-    "total_interactions": null,
-    "ig_reels_avg_watch_time": null,
-    "ig_reels_video_view_total_time": null
+    "views": 111,
+    "reach": 104,
+    "likes": 2,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 2,
+    "ig_reels_avg_watch_time": 4523,
+    "ig_reels_video_view_total_time": 474975
    }
   },
   {
@@ -74,27 +52,16 @@
    "like_count": 1,
    "comments_count": 0,
    "caption_anfang": "#fenster #nass #gutzuwissen #haushalt #haushalttipps",
-   "fehler": {
-    "views": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "reach": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "likes": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "comments": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "shares": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "saved": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "total_interactions": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "ig_reels_avg_watch_time": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "ig_reels_video_view_total_time": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr"
-   },
    "insights": {
-    "views": null,
-    "reach": null,
-    "likes": null,
-    "comments": null,
-    "shares": null,
-    "saved": null,
-    "total_interactions": null,
-    "ig_reels_avg_watch_time": null,
-    "ig_reels_video_view_total_time": null
+    "views": 127,
+    "reach": 114,
+    "likes": 1,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 1,
+    "ig_reels_avg_watch_time": 5901,
+    "ig_reels_video_view_total_time": 684577
    }
   },
   {
@@ -104,27 +71,16 @@
    "like_count": 2,
    "comments_count": 0,
    "caption_anfang": "#schlaf #schlafträgheit #alltag #müde #gutzuwissen",
-   "fehler": {
-    "views": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "reach": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "likes": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "comments": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "shares": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "saved": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "total_interactions": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "ig_reels_avg_watch_time": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "ig_reels_video_view_total_time": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr"
-   },
    "insights": {
-    "views": null,
-    "reach": null,
-    "likes": null,
-    "comments": null,
-    "shares": null,
-    "saved": null,
-    "total_interactions": null,
-    "ig_reels_avg_watch_time": null,
-    "ig_reels_video_view_total_time": null
+    "views": 145,
+    "reach": 122,
+    "likes": 2,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 2,
+    "ig_reels_avg_watch_time": 9160,
+    "ig_reels_video_view_total_time": 1145024
    }
   },
   {
@@ -134,27 +90,16 @@
    "like_count": 2,
    "comments_count": 0,
    "caption_anfang": "#akku #gutzuwissen #haushalttipps #technik",
-   "fehler": {
-    "views": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "reach": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "likes": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "comments": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "shares": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "saved": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "total_interactions": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "ig_reels_avg_watch_time": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "ig_reels_video_view_total_time": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr"
-   },
    "insights": {
-    "views": null,
-    "reach": null,
-    "likes": null,
-    "comments": null,
-    "shares": null,
-    "saved": null,
-    "total_interactions": null,
-    "ig_reels_avg_watch_time": null,
-    "ig_reels_video_view_total_time": null
+    "views": 118,
+    "reach": 111,
+    "likes": 2,
+    "comments": 0,
+    "shares": 0,
+    "saved": 2,
+    "total_interactions": 4,
+    "ig_reels_avg_watch_time": 9823,
+    "ig_reels_video_view_total_time": 1149372
    }
   },
   {
@@ -164,27 +109,16 @@
    "like_count": 14,
    "comments_count": 0,
    "caption_anfang": "#alltagswissen #heizung #heizen #technikerklärt #gutzuwissen",
-   "fehler": {
-    "views": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "reach": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "likes": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "comments": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "shares": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "saved": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "total_interactions": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "ig_reels_avg_watch_time": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "ig_reels_video_view_total_time": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr"
-   },
    "insights": {
-    "views": null,
-    "reach": null,
-    "likes": null,
-    "comments": null,
-    "shares": null,
-    "saved": null,
-    "total_interactions": null,
-    "ig_reels_avg_watch_time": null,
-    "ig_reels_video_view_total_time": null
+    "views": 1657,
+    "reach": 1495,
+    "likes": 14,
+    "comments": 0,
+    "shares": 1,
+    "saved": 6,
+    "total_interactions": 21,
+    "ig_reels_avg_watch_time": 13828,
+    "ig_reels_video_view_total_time": 20591274
    }
   },
   {
@@ -194,27 +128,16 @@
    "like_count": 7,
    "comments_count": 0,
    "caption_anfang": "#alltagswissen #heizung #technikerklärt #gutzuwissen #hausha",
-   "fehler": {
-    "views": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "reach": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "likes": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "comments": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "shares": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "saved": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "total_interactions": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "ig_reels_avg_watch_time": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "ig_reels_video_view_total_time": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr"
-   },
    "insights": {
-    "views": null,
-    "reach": null,
-    "likes": null,
-    "comments": null,
-    "shares": null,
-    "saved": null,
-    "total_interactions": null,
-    "ig_reels_avg_watch_time": null,
-    "ig_reels_video_view_total_time": null
+    "views": 1363,
+    "reach": 1243,
+    "likes": 7,
+    "comments": 0,
+    "shares": 1,
+    "saved": 7,
+    "total_interactions": 15,
+    "ig_reels_avg_watch_time": 12489,
+    "ig_reels_video_view_total_time": 15661567
    }
   },
   {
@@ -224,27 +147,16 @@
    "like_count": 16,
    "comments_count": 0,
    "caption_anfang": "#Day 30\n#thankyou #memes #funnyvideos #funnymemes #funny #re",
-   "fehler": {
-    "views": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "reach": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "likes": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "comments": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "shares": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "saved": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "total_interactions": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "ig_reels_avg_watch_time": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "ig_reels_video_view_total_time": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr"
-   },
    "insights": {
-    "views": null,
-    "reach": null,
-    "likes": null,
-    "comments": null,
-    "shares": null,
-    "saved": null,
-    "total_interactions": null,
-    "ig_reels_avg_watch_time": null,
-    "ig_reels_video_view_total_time": null
+    "views": 647,
+    "reach": 375,
+    "likes": 16,
+    "comments": 0,
+    "shares": 44,
+    "saved": 3,
+    "total_interactions": 64,
+    "ig_reels_avg_watch_time": 21019,
+    "ig_reels_video_view_total_time": 9521820
    }
   },
   {
@@ -254,27 +166,16 @@
    "like_count": 0,
    "comments_count": 0,
    "caption_anfang": "#Day 29\n#thankyou #memes #funnyvideos #funnymemes #funny #re",
-   "fehler": {
-    "views": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "reach": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "likes": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "comments": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "shares": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "saved": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "total_interactions": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "ig_reels_avg_watch_time": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "ig_reels_video_view_total_time": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr"
-   },
    "insights": {
-    "views": null,
-    "reach": null,
-    "likes": null,
-    "comments": null,
-    "shares": null,
-    "saved": null,
-    "total_interactions": null,
-    "ig_reels_avg_watch_time": null,
-    "ig_reels_video_view_total_time": null
+    "views": 310,
+    "reach": 255,
+    "likes": 0,
+    "comments": 0,
+    "shares": 6,
+    "saved": 0,
+    "total_interactions": 6,
+    "ig_reels_avg_watch_time": 11055,
+    "ig_reels_video_view_total_time": 2586918
    }
   },
   {
@@ -284,27 +185,16 @@
    "like_count": 5,
    "comments_count": 1,
    "caption_anfang": "#Day 28\n#thankyou #memes #funnyvideos #funnymemes #funny #re",
-   "fehler": {
-    "views": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "reach": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "likes": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "comments": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "shares": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "saved": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "total_interactions": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "ig_reels_avg_watch_time": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "ig_reels_video_view_total_time": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr"
-   },
    "insights": {
-    "views": null,
-    "reach": null,
-    "likes": null,
-    "comments": null,
-    "shares": null,
-    "saved": null,
-    "total_interactions": null,
-    "ig_reels_avg_watch_time": null,
-    "ig_reels_video_view_total_time": null
+    "views": 197,
+    "reach": 197,
+    "likes": 5,
+    "comments": 1,
+    "shares": 2,
+    "saved": 0,
+    "total_interactions": 8,
+    "ig_reels_avg_watch_time": 11541,
+    "ig_reels_video_view_total_time": 1962018
    }
   },
   {
@@ -314,27 +204,16 @@
    "like_count": 4,
    "comments_count": 0,
    "caption_anfang": "#Day 27\n#thankyou #memes #funnyvideos #funnymemes #funny #re",
-   "fehler": {
-    "views": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "reach": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "likes": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "comments": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "shares": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "saved": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "total_interactions": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "ig_reels_avg_watch_time": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "ig_reels_video_view_total_time": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr"
-   },
    "insights": {
-    "views": null,
-    "reach": null,
-    "likes": null,
-    "comments": null,
-    "shares": null,
-    "saved": null,
-    "total_interactions": null,
-    "ig_reels_avg_watch_time": null,
-    "ig_reels_video_view_total_time": null
+    "views": 229,
+    "reach": 206,
+    "likes": 4,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 4,
+    "ig_reels_avg_watch_time": 10307,
+    "ig_reels_video_view_total_time": 2030616
    }
   },
   {
@@ -344,27 +223,16 @@
    "like_count": 2,
    "comments_count": 0,
    "caption_anfang": "#Day 26\n#thankyou #memes #funnyvideos #funnymemes #funny #re",
-   "fehler": {
-    "views": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "reach": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "likes": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "comments": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "shares": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "saved": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "total_interactions": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "ig_reels_avg_watch_time": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "ig_reels_video_view_total_time": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr"
-   },
    "insights": {
-    "views": null,
-    "reach": null,
-    "likes": null,
-    "comments": null,
-    "shares": null,
-    "saved": null,
-    "total_interactions": null,
-    "ig_reels_avg_watch_time": null,
-    "ig_reels_video_view_total_time": null
+    "views": 133,
+    "reach": 131,
+    "likes": 2,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 2,
+    "ig_reels_avg_watch_time": 8562,
+    "ig_reels_video_view_total_time": 1078871
    }
   },
   {
@@ -374,27 +242,16 @@
    "like_count": 1,
    "comments_count": 0,
    "caption_anfang": "#Day 25\n#thankyou #memes #funnyvideos #funnymemes #funny #re",
-   "fehler": {
-    "views": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "reach": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "likes": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "comments": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "shares": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "saved": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "total_interactions": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "ig_reels_avg_watch_time": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "ig_reels_video_view_total_time": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr"
-   },
    "insights": {
-    "views": null,
-    "reach": null,
-    "likes": null,
-    "comments": null,
-    "shares": null,
-    "saved": null,
-    "total_interactions": null,
-    "ig_reels_avg_watch_time": null,
-    "ig_reels_video_view_total_time": null
+    "views": 90,
+    "reach": 80,
+    "likes": 1,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 1,
+    "ig_reels_avg_watch_time": 7676,
+    "ig_reels_video_view_total_time": 621834
    }
   },
   {
@@ -404,27 +261,16 @@
    "like_count": 3,
    "comments_count": 0,
    "caption_anfang": "#Day 24\n#thankyou #memes #funnyvideos #funnymemes #funny #re",
-   "fehler": {
-    "views": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "reach": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "likes": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "comments": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "shares": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "saved": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "total_interactions": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "ig_reels_avg_watch_time": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "ig_reels_video_view_total_time": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr"
-   },
    "insights": {
-    "views": null,
-    "reach": null,
-    "likes": null,
-    "comments": null,
-    "shares": null,
-    "saved": null,
-    "total_interactions": null,
-    "ig_reels_avg_watch_time": null,
-    "ig_reels_video_view_total_time": null
+    "views": 153,
+    "reach": 143,
+    "likes": 3,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 3,
+    "ig_reels_avg_watch_time": 9328,
+    "ig_reels_video_view_total_time": 1296665
    }
   },
   {
@@ -434,27 +280,16 @@
    "like_count": 4,
    "comments_count": 0,
    "caption_anfang": "#Day 23\n#thankyou #memes #funnyvideos #funnymemes #funny #re",
-   "fehler": {
-    "views": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "reach": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "likes": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "comments": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "shares": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "saved": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "total_interactions": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "ig_reels_avg_watch_time": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "ig_reels_video_view_total_time": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr"
-   },
    "insights": {
-    "views": null,
-    "reach": null,
-    "likes": null,
-    "comments": null,
-    "shares": null,
-    "saved": null,
-    "total_interactions": null,
-    "ig_reels_avg_watch_time": null,
-    "ig_reels_video_view_total_time": null
+    "views": 197,
+    "reach": 185,
+    "likes": 4,
+    "comments": 0,
+    "shares": 0,
+    "saved": 1,
+    "total_interactions": 5,
+    "ig_reels_avg_watch_time": 10009,
+    "ig_reels_video_view_total_time": 1801718
    }
   },
   {
@@ -464,27 +299,16 @@
    "like_count": 5,
    "comments_count": 0,
    "caption_anfang": "#Day 22\n#thankyou #memes #funnyvideos #funnymemes #funny #re",
-   "fehler": {
-    "views": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "reach": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "likes": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "comments": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "shares": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "saved": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "total_interactions": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "ig_reels_avg_watch_time": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "ig_reels_video_view_total_time": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr"
-   },
    "insights": {
-    "views": null,
-    "reach": null,
-    "likes": null,
-    "comments": null,
-    "shares": null,
-    "saved": null,
-    "total_interactions": null,
-    "ig_reels_avg_watch_time": null,
-    "ig_reels_video_view_total_time": null
+    "views": 235,
+    "reach": 203,
+    "likes": 5,
+    "comments": 0,
+    "shares": 0,
+    "saved": 1,
+    "total_interactions": 6,
+    "ig_reels_avg_watch_time": 11133,
+    "ig_reels_video_view_total_time": 2282370
    }
   },
   {
@@ -494,27 +318,16 @@
    "like_count": 2,
    "comments_count": 0,
    "caption_anfang": "#Day 21\n#thankyou #memes #funnyvideos #funnymemes #funny #re",
-   "fehler": {
-    "views": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "reach": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "likes": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "comments": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "shares": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "saved": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "total_interactions": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "ig_reels_avg_watch_time": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "ig_reels_video_view_total_time": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr"
-   },
    "insights": {
-    "views": null,
-    "reach": null,
-    "likes": null,
-    "comments": null,
-    "shares": null,
-    "saved": null,
-    "total_interactions": null,
-    "ig_reels_avg_watch_time": null,
-    "ig_reels_video_view_total_time": null
+    "views": 140,
+    "reach": 127,
+    "likes": 2,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 2,
+    "ig_reels_avg_watch_time": 8512,
+    "ig_reels_video_view_total_time": 1106561
    }
   },
   {
@@ -524,27 +337,16 @@
    "like_count": 3,
    "comments_count": 0,
    "caption_anfang": "#Day 20\n#thankyou #memes #funnyvideos #funnymemes #funny #re",
-   "fehler": {
-    "views": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "reach": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "likes": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "comments": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "shares": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "saved": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "total_interactions": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "ig_reels_avg_watch_time": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "ig_reels_video_view_total_time": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr"
-   },
    "insights": {
-    "views": null,
-    "reach": null,
-    "likes": null,
-    "comments": null,
-    "shares": null,
-    "saved": null,
-    "total_interactions": null,
-    "ig_reels_avg_watch_time": null,
-    "ig_reels_video_view_total_time": null
+    "views": 198,
+    "reach": 180,
+    "likes": 3,
+    "comments": 0,
+    "shares": 0,
+    "saved": 1,
+    "total_interactions": 4,
+    "ig_reels_avg_watch_time": 10392,
+    "ig_reels_video_view_total_time": 1860287
    }
   },
   {
@@ -554,27 +356,16 @@
    "like_count": 7,
    "comments_count": 0,
    "caption_anfang": "#Day 19\n#thankyou #memes #funnyvideos #funnymemes #funny #re",
-   "fehler": {
-    "views": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "reach": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "likes": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "comments": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "shares": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "saved": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "total_interactions": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "ig_reels_avg_watch_time": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "ig_reels_video_view_total_time": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr"
-   },
    "insights": {
-    "views": null,
-    "reach": null,
-    "likes": null,
-    "comments": null,
-    "shares": null,
-    "saved": null,
-    "total_interactions": null,
-    "ig_reels_avg_watch_time": null,
-    "ig_reels_video_view_total_time": null
+    "views": 341,
+    "reach": 299,
+    "likes": 7,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 7,
+    "ig_reels_avg_watch_time": 12309,
+    "ig_reels_video_view_total_time": 3680659
    }
   },
   {
@@ -584,27 +375,16 @@
    "like_count": 2,
    "comments_count": 0,
    "caption_anfang": "#Day 18\n#thankyou #memes #funnyvideos #funnymemes #funny #re",
-   "fehler": {
-    "views": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "reach": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "likes": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "comments": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "shares": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "saved": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "total_interactions": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "ig_reels_avg_watch_time": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "ig_reels_video_view_total_time": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr"
-   },
    "insights": {
-    "views": null,
-    "reach": null,
-    "likes": null,
-    "comments": null,
-    "shares": null,
-    "saved": null,
-    "total_interactions": null,
-    "ig_reels_avg_watch_time": null,
-    "ig_reels_video_view_total_time": null
+    "views": 232,
+    "reach": 218,
+    "likes": 2,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 2,
+    "ig_reels_avg_watch_time": 10749,
+    "ig_reels_video_view_total_time": 2332534
    }
   },
   {
@@ -614,27 +394,16 @@
    "like_count": 2,
    "comments_count": 0,
    "caption_anfang": "#Day  17\n#thankyou #memes #funnyvideos #funnymemes #funny #r",
-   "fehler": {
-    "views": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "reach": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "likes": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "comments": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "shares": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "saved": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "total_interactions": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "ig_reels_avg_watch_time": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "ig_reels_video_view_total_time": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr"
-   },
    "insights": {
-    "views": null,
-    "reach": null,
-    "likes": null,
-    "comments": null,
-    "shares": null,
-    "saved": null,
-    "total_interactions": null,
-    "ig_reels_avg_watch_time": null,
-    "ig_reels_video_view_total_time": null
+    "views": 228,
+    "reach": 204,
+    "likes": 2,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 2,
+    "ig_reels_avg_watch_time": 9507,
+    "ig_reels_video_view_total_time": 1920558
    }
   },
   {
@@ -644,27 +413,16 @@
    "like_count": 1,
    "comments_count": 0,
    "caption_anfang": "#day 16\n#thankyou #memes #funnyvideos #funnymemes #funny #re",
-   "fehler": {
-    "views": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "reach": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "likes": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "comments": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "shares": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "saved": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "total_interactions": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "ig_reels_avg_watch_time": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "ig_reels_video_view_total_time": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr"
-   },
    "insights": {
-    "views": null,
-    "reach": null,
-    "likes": null,
-    "comments": null,
-    "shares": null,
-    "saved": null,
-    "total_interactions": null,
-    "ig_reels_avg_watch_time": null,
-    "ig_reels_video_view_total_time": null
+    "views": 50,
+    "reach": 42,
+    "likes": 1,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 1,
+    "ig_reels_avg_watch_time": 6065,
+    "ig_reels_video_view_total_time": 260833
    }
   },
   {
@@ -674,27 +432,16 @@
    "like_count": 2,
    "comments_count": 0,
    "caption_anfang": "#day 15\n#thankyou #memes #funnyvideos #funnymemes #funny #re",
-   "fehler": {
-    "views": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "reach": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "likes": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "comments": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "shares": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "saved": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "total_interactions": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "ig_reels_avg_watch_time": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "ig_reels_video_view_total_time": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr"
-   },
    "insights": {
-    "views": null,
-    "reach": null,
-    "likes": null,
-    "comments": null,
-    "shares": null,
-    "saved": null,
-    "total_interactions": null,
-    "ig_reels_avg_watch_time": null,
-    "ig_reels_video_view_total_time": null
+    "views": 69,
+    "reach": 60,
+    "likes": 2,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 2,
+    "ig_reels_avg_watch_time": 8084,
+    "ig_reels_video_view_total_time": 541692
    }
   },
   {
@@ -704,27 +451,16 @@
    "like_count": 2,
    "comments_count": 0,
    "caption_anfang": "#Day 14\n#thankyou #memes #funnyvideos #funnymemes #funny #re",
-   "fehler": {
-    "views": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "reach": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "likes": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "comments": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "shares": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "saved": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "total_interactions": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "ig_reels_avg_watch_time": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "ig_reels_video_view_total_time": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr"
-   },
    "insights": {
-    "views": null,
-    "reach": null,
-    "likes": null,
-    "comments": null,
-    "shares": null,
-    "saved": null,
-    "total_interactions": null,
-    "ig_reels_avg_watch_time": null,
-    "ig_reels_video_view_total_time": null
+    "views": 136,
+    "reach": 116,
+    "likes": 2,
+    "comments": 0,
+    "shares": 0,
+    "saved": 1,
+    "total_interactions": 3,
+    "ig_reels_avg_watch_time": 11164,
+    "ig_reels_video_view_total_time": 1339771
    }
   },
   {
@@ -734,27 +470,16 @@
    "like_count": 3,
    "comments_count": 0,
    "caption_anfang": "Day 13\n#thankyou #memes #funnyvideos #funnymemes #funny #ree",
-   "fehler": {
-    "views": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "reach": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "likes": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "comments": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "shares": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "saved": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "total_interactions": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "ig_reels_avg_watch_time": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "ig_reels_video_view_total_time": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr"
-   },
    "insights": {
-    "views": null,
-    "reach": null,
-    "likes": null,
-    "comments": null,
-    "shares": null,
-    "saved": null,
-    "total_interactions": null,
-    "ig_reels_avg_watch_time": null,
-    "ig_reels_video_view_total_time": null
+    "views": 213,
+    "reach": 186,
+    "likes": 3,
+    "comments": 0,
+    "shares": 1,
+    "saved": 0,
+    "total_interactions": 4,
+    "ig_reels_avg_watch_time": 7646,
+    "ig_reels_video_view_total_time": 1460500
    }
   },
   {
@@ -764,27 +489,16 @@
    "like_count": 1,
    "comments_count": 0,
    "caption_anfang": "Day 11 #thankyou #memes #funnyvideos #funnymemes #funny #ree",
-   "fehler": {
-    "views": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "reach": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "likes": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "comments": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "shares": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "saved": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "total_interactions": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "ig_reels_avg_watch_time": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "ig_reels_video_view_total_time": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr"
-   },
    "insights": {
-    "views": null,
-    "reach": null,
-    "likes": null,
-    "comments": null,
-    "shares": null,
-    "saved": null,
-    "total_interactions": null,
-    "ig_reels_avg_watch_time": null,
-    "ig_reels_video_view_total_time": null
+    "views": 39,
+    "reach": 39,
+    "likes": 1,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 1,
+    "ig_reels_avg_watch_time": 8367,
+    "ig_reels_video_view_total_time": 309595
    }
   },
   {
@@ -794,27 +508,16 @@
    "like_count": 3,
    "comments_count": 0,
    "caption_anfang": "#thankyou #memes #funnyvideos #funnymemes #funny #reels #ree",
-   "fehler": {
-    "views": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "reach": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "likes": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "comments": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "shares": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "saved": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "total_interactions": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "ig_reels_avg_watch_time": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "ig_reels_video_view_total_time": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr"
-   },
    "insights": {
-    "views": null,
-    "reach": null,
-    "likes": null,
-    "comments": null,
-    "shares": null,
-    "saved": null,
-    "total_interactions": null,
-    "ig_reels_avg_watch_time": null,
-    "ig_reels_video_view_total_time": null
+    "views": 198,
+    "reach": 186,
+    "likes": 3,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 3,
+    "ig_reels_avg_watch_time": 7168,
+    "ig_reels_video_view_total_time": 1326256
    }
   },
   {
@@ -824,27 +527,16 @@
    "like_count": 1,
    "comments_count": 0,
    "caption_anfang": "Day 10\n#thankyou #memes #funnyvideos #funnymemes #funny #ree",
-   "fehler": {
-    "views": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "reach": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "likes": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "comments": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "shares": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "saved": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "total_interactions": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "ig_reels_avg_watch_time": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "ig_reels_video_view_total_time": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr"
-   },
    "insights": {
-    "views": null,
-    "reach": null,
-    "likes": null,
-    "comments": null,
-    "shares": null,
-    "saved": null,
-    "total_interactions": null,
-    "ig_reels_avg_watch_time": null,
-    "ig_reels_video_view_total_time": null
+    "views": 107,
+    "reach": 94,
+    "likes": 1,
+    "comments": 0,
+    "shares": 0,
+    "saved": 1,
+    "total_interactions": 2,
+    "ig_reels_avg_watch_time": 7327,
+    "ig_reels_video_view_total_time": 732784
    }
   },
   {
@@ -854,27 +546,16 @@
    "like_count": 2,
    "comments_count": 0,
    "caption_anfang": "Day 9\n#thankyou #memes #funnyvideos #funnymemes #funny #reel",
-   "fehler": {
-    "views": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "reach": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "likes": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "comments": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "shares": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "saved": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "total_interactions": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "ig_reels_avg_watch_time": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "ig_reels_video_view_total_time": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr"
-   },
    "insights": {
-    "views": null,
-    "reach": null,
-    "likes": null,
-    "comments": null,
-    "shares": null,
-    "saved": null,
-    "total_interactions": null,
-    "ig_reels_avg_watch_time": null,
-    "ig_reels_video_view_total_time": null
+    "views": 69,
+    "reach": 63,
+    "likes": 2,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 2,
+    "ig_reels_avg_watch_time": 5875,
+    "ig_reels_video_view_total_time": 381923
    }
   },
   {
@@ -884,27 +565,16 @@
    "like_count": 1,
    "comments_count": 0,
    "caption_anfang": "#thankyou #memes #funnyvideos #funnymemes #funny #reels #ree",
-   "fehler": {
-    "views": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "reach": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "likes": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "comments": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "shares": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "saved": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "total_interactions": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "ig_reels_avg_watch_time": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "ig_reels_video_view_total_time": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr"
-   },
    "insights": {
-    "views": null,
-    "reach": null,
-    "likes": null,
-    "comments": null,
-    "shares": null,
-    "saved": null,
-    "total_interactions": null,
-    "ig_reels_avg_watch_time": null,
-    "ig_reels_video_view_total_time": null
+    "views": 170,
+    "reach": 162,
+    "likes": 1,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 1,
+    "ig_reels_avg_watch_time": 9206,
+    "ig_reels_video_view_total_time": 1491492
    }
   },
   {
@@ -915,15 +585,15 @@
    "comments_count": 0,
    "caption_anfang": "#thankyou #memes #funnyvideos #funnymemes #funny #reels #ree",
    "fehler": {
-    "views": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "reach": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "likes": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "comments": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "shares": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "saved": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "total_interactions": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "ig_reels_avg_watch_time": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "ig_reels_video_view_total_time": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr"
+    "views": "{\"error\":{\"message\":\"Invalid parameter\",\"code\":100,\"type\":\"OAuthException\",\"error_data\":{\"blame_field_specs\":[[\"\"]]},\"er",
+    "reach": "{\"error\":{\"message\":\"Invalid parameter\",\"code\":100,\"type\":\"OAuthException\",\"error_data\":{\"blame_field_specs\":[[\"\"]]},\"er",
+    "likes": "{\"error\":{\"message\":\"Invalid parameter\",\"code\":100,\"type\":\"OAuthException\",\"error_data\":{\"blame_field_specs\":[[\"\"]]},\"er",
+    "comments": "{\"error\":{\"message\":\"Invalid parameter\",\"code\":100,\"type\":\"OAuthException\",\"error_data\":{\"blame_field_specs\":[[\"\"]]},\"er",
+    "shares": "{\"error\":{\"message\":\"Invalid parameter\",\"code\":100,\"type\":\"OAuthException\",\"error_data\":{\"blame_field_specs\":[[\"\"]]},\"er",
+    "saved": "{\"error\":{\"message\":\"Invalid parameter\",\"code\":100,\"type\":\"OAuthException\",\"error_data\":{\"blame_field_specs\":[[\"\"]]},\"er",
+    "total_interactions": "{\"error\":{\"message\":\"Invalid parameter\",\"code\":100,\"type\":\"OAuthException\",\"error_data\":{\"blame_field_specs\":[[\"\"]]},\"er",
+    "ig_reels_avg_watch_time": "{\"error\":{\"message\":\"Invalid parameter\",\"code\":100,\"type\":\"OAuthException\",\"error_data\":{\"blame_field_specs\":[[\"\"]]},\"er",
+    "ig_reels_video_view_total_time": "{\"error\":{\"message\":\"Invalid parameter\",\"code\":100,\"type\":\"OAuthException\",\"error_data\":{\"blame_field_specs\":[[\"\"]]},\"er"
    },
    "insights": {
     "views": null,
@@ -945,15 +615,15 @@
    "comments_count": 0,
    "caption_anfang": "#thankyou #memes #funnyvideos #funnymemes #funny #reels #ree",
    "fehler": {
-    "views": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "reach": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "likes": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "comments": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "shares": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "saved": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "total_interactions": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "ig_reels_avg_watch_time": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "ig_reels_video_view_total_time": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr"
+    "views": "{\"error\":{\"message\":\"Invalid parameter\",\"code\":100,\"type\":\"OAuthException\",\"error_data\":{\"blame_field_specs\":[[\"\"]]},\"er",
+    "reach": "{\"error\":{\"message\":\"Invalid parameter\",\"code\":100,\"type\":\"OAuthException\",\"error_data\":{\"blame_field_specs\":[[\"\"]]},\"er",
+    "likes": "{\"error\":{\"message\":\"Invalid parameter\",\"code\":100,\"type\":\"OAuthException\",\"error_data\":{\"blame_field_specs\":[[\"\"]]},\"er",
+    "comments": "{\"error\":{\"message\":\"Invalid parameter\",\"code\":100,\"type\":\"OAuthException\",\"error_data\":{\"blame_field_specs\":[[\"\"]]},\"er",
+    "shares": "{\"error\":{\"message\":\"Invalid parameter\",\"code\":100,\"type\":\"OAuthException\",\"error_data\":{\"blame_field_specs\":[[\"\"]]},\"er",
+    "saved": "{\"error\":{\"message\":\"Invalid parameter\",\"code\":100,\"type\":\"OAuthException\",\"error_data\":{\"blame_field_specs\":[[\"\"]]},\"er",
+    "total_interactions": "{\"error\":{\"message\":\"Invalid parameter\",\"code\":100,\"type\":\"OAuthException\",\"error_data\":{\"blame_field_specs\":[[\"\"]]},\"er",
+    "ig_reels_avg_watch_time": "{\"error\":{\"message\":\"Invalid parameter\",\"code\":100,\"type\":\"OAuthException\",\"error_data\":{\"blame_field_specs\":[[\"\"]]},\"er",
+    "ig_reels_video_view_total_time": "{\"error\":{\"message\":\"Invalid parameter\",\"code\":100,\"type\":\"OAuthException\",\"error_data\":{\"blame_field_specs\":[[\"\"]]},\"er"
    },
    "insights": {
     "views": null,
@@ -975,15 +645,15 @@
    "comments_count": 0,
    "caption_anfang": "#thankyou #memes #funnyvideos #funnymemes #funny #reels #ree",
    "fehler": {
-    "views": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "reach": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "likes": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "comments": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "shares": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "saved": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "total_interactions": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "ig_reels_avg_watch_time": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "ig_reels_video_view_total_time": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr"
+    "views": "{\"error\":{\"message\":\"Invalid parameter\",\"code\":100,\"type\":\"OAuthException\",\"error_data\":{\"blame_field_specs\":[[\"\"]]},\"er",
+    "reach": "{\"error\":{\"message\":\"Invalid parameter\",\"code\":100,\"type\":\"OAuthException\",\"error_data\":{\"blame_field_specs\":[[\"\"]]},\"er",
+    "likes": "{\"error\":{\"message\":\"Invalid parameter\",\"code\":100,\"type\":\"OAuthException\",\"error_data\":{\"blame_field_specs\":[[\"\"]]},\"er",
+    "comments": "{\"error\":{\"message\":\"Invalid parameter\",\"code\":100,\"type\":\"OAuthException\",\"error_data\":{\"blame_field_specs\":[[\"\"]]},\"er",
+    "shares": "{\"error\":{\"message\":\"Invalid parameter\",\"code\":100,\"type\":\"OAuthException\",\"error_data\":{\"blame_field_specs\":[[\"\"]]},\"er",
+    "saved": "{\"error\":{\"message\":\"Invalid parameter\",\"code\":100,\"type\":\"OAuthException\",\"error_data\":{\"blame_field_specs\":[[\"\"]]},\"er",
+    "total_interactions": "{\"error\":{\"message\":\"Invalid parameter\",\"code\":100,\"type\":\"OAuthException\",\"error_data\":{\"blame_field_specs\":[[\"\"]]},\"er",
+    "ig_reels_avg_watch_time": "{\"error\":{\"message\":\"Invalid parameter\",\"code\":100,\"type\":\"OAuthException\",\"error_data\":{\"blame_field_specs\":[[\"\"]]},\"er",
+    "ig_reels_video_view_total_time": "{\"error\":{\"message\":\"Invalid parameter\",\"code\":100,\"type\":\"OAuthException\",\"error_data\":{\"blame_field_specs\":[[\"\"]]},\"er"
    },
    "insights": {
     "views": null,
@@ -1005,15 +675,15 @@
    "comments_count": 0,
    "caption_anfang": "#thankyou #memes #funnyvideos #funnymemes #funny #reels #ree",
    "fehler": {
-    "views": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "reach": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "likes": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "comments": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "shares": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "saved": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "total_interactions": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "ig_reels_avg_watch_time": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "ig_reels_video_view_total_time": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr"
+    "views": "{\"error\":{\"message\":\"Invalid parameter\",\"code\":100,\"type\":\"OAuthException\",\"error_data\":{\"blame_field_specs\":[[\"\"]]},\"er",
+    "reach": "{\"error\":{\"message\":\"Invalid parameter\",\"code\":100,\"type\":\"OAuthException\",\"error_data\":{\"blame_field_specs\":[[\"\"]]},\"er",
+    "likes": "{\"error\":{\"message\":\"Invalid parameter\",\"code\":100,\"type\":\"OAuthException\",\"error_data\":{\"blame_field_specs\":[[\"\"]]},\"er",
+    "comments": "{\"error\":{\"message\":\"Invalid parameter\",\"code\":100,\"type\":\"OAuthException\",\"error_data\":{\"blame_field_specs\":[[\"\"]]},\"er",
+    "shares": "{\"error\":{\"message\":\"Invalid parameter\",\"code\":100,\"type\":\"OAuthException\",\"error_data\":{\"blame_field_specs\":[[\"\"]]},\"er",
+    "saved": "{\"error\":{\"message\":\"Invalid parameter\",\"code\":100,\"type\":\"OAuthException\",\"error_data\":{\"blame_field_specs\":[[\"\"]]},\"er",
+    "total_interactions": "{\"error\":{\"message\":\"Invalid parameter\",\"code\":100,\"type\":\"OAuthException\",\"error_data\":{\"blame_field_specs\":[[\"\"]]},\"er",
+    "ig_reels_avg_watch_time": "{\"error\":{\"message\":\"Invalid parameter\",\"code\":100,\"type\":\"OAuthException\",\"error_data\":{\"blame_field_specs\":[[\"\"]]},\"er",
+    "ig_reels_video_view_total_time": "{\"error\":{\"message\":\"Invalid parameter\",\"code\":100,\"type\":\"OAuthException\",\"error_data\":{\"blame_field_specs\":[[\"\"]]},\"er"
    },
    "insights": {
     "views": null,
@@ -1035,15 +705,15 @@
    "comments_count": 0,
    "caption_anfang": "#thankyou #funnyvideos #funny #memes #meme #funnymemes",
    "fehler": {
-    "views": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "reach": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "likes": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "comments": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "shares": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "saved": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "total_interactions": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "ig_reels_avg_watch_time": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "ig_reels_video_view_total_time": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr"
+    "views": "{\"error\":{\"message\":\"Invalid parameter\",\"code\":100,\"type\":\"OAuthException\",\"error_data\":{\"blame_field_specs\":[[\"\"]]},\"er",
+    "reach": "{\"error\":{\"message\":\"Invalid parameter\",\"code\":100,\"type\":\"OAuthException\",\"error_data\":{\"blame_field_specs\":[[\"\"]]},\"er",
+    "likes": "{\"error\":{\"message\":\"Invalid parameter\",\"code\":100,\"type\":\"OAuthException\",\"error_data\":{\"blame_field_specs\":[[\"\"]]},\"er",
+    "comments": "{\"error\":{\"message\":\"Invalid parameter\",\"code\":100,\"type\":\"OAuthException\",\"error_data\":{\"blame_field_specs\":[[\"\"]]},\"er",
+    "shares": "{\"error\":{\"message\":\"Invalid parameter\",\"code\":100,\"type\":\"OAuthException\",\"error_data\":{\"blame_field_specs\":[[\"\"]]},\"er",
+    "saved": "{\"error\":{\"message\":\"Invalid parameter\",\"code\":100,\"type\":\"OAuthException\",\"error_data\":{\"blame_field_specs\":[[\"\"]]},\"er",
+    "total_interactions": "{\"error\":{\"message\":\"Invalid parameter\",\"code\":100,\"type\":\"OAuthException\",\"error_data\":{\"blame_field_specs\":[[\"\"]]},\"er",
+    "ig_reels_avg_watch_time": "{\"error\":{\"message\":\"Invalid parameter\",\"code\":100,\"type\":\"OAuthException\",\"error_data\":{\"blame_field_specs\":[[\"\"]]},\"er",
+    "ig_reels_video_view_total_time": "{\"error\":{\"message\":\"Invalid parameter\",\"code\":100,\"type\":\"OAuthException\",\"error_data\":{\"blame_field_specs\":[[\"\"]]},\"er"
    },
    "insights": {
     "views": null,
@@ -1065,15 +735,15 @@
    "comments_count": 0,
    "caption_anfang": "#thankyou",
    "fehler": {
-    "views": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "reach": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "likes": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "comments": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "shares": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "saved": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "total_interactions": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "ig_reels_avg_watch_time": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "ig_reels_video_view_total_time": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr"
+    "views": "{\"error\":{\"message\":\"Invalid parameter\",\"code\":100,\"type\":\"OAuthException\",\"error_data\":{\"blame_field_specs\":[[\"\"]]},\"er",
+    "reach": "{\"error\":{\"message\":\"Invalid parameter\",\"code\":100,\"type\":\"OAuthException\",\"error_data\":{\"blame_field_specs\":[[\"\"]]},\"er",
+    "likes": "{\"error\":{\"message\":\"Invalid parameter\",\"code\":100,\"type\":\"OAuthException\",\"error_data\":{\"blame_field_specs\":[[\"\"]]},\"er",
+    "comments": "{\"error\":{\"message\":\"Invalid parameter\",\"code\":100,\"type\":\"OAuthException\",\"error_data\":{\"blame_field_specs\":[[\"\"]]},\"er",
+    "shares": "{\"error\":{\"message\":\"Invalid parameter\",\"code\":100,\"type\":\"OAuthException\",\"error_data\":{\"blame_field_specs\":[[\"\"]]},\"er",
+    "saved": "{\"error\":{\"message\":\"Invalid parameter\",\"code\":100,\"type\":\"OAuthException\",\"error_data\":{\"blame_field_specs\":[[\"\"]]},\"er",
+    "total_interactions": "{\"error\":{\"message\":\"Invalid parameter\",\"code\":100,\"type\":\"OAuthException\",\"error_data\":{\"blame_field_specs\":[[\"\"]]},\"er",
+    "ig_reels_avg_watch_time": "{\"error\":{\"message\":\"Invalid parameter\",\"code\":100,\"type\":\"OAuthException\",\"error_data\":{\"blame_field_specs\":[[\"\"]]},\"er",
+    "ig_reels_video_view_total_time": "{\"error\":{\"message\":\"Invalid parameter\",\"code\":100,\"type\":\"OAuthException\",\"error_data\":{\"blame_field_specs\":[[\"\"]]},\"er"
    },
    "insights": {
     "views": null,
@@ -1095,15 +765,15 @@
    "comments_count": 0,
    "caption_anfang": "#thankyou",
    "fehler": {
-    "views": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "reach": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "likes": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "comments": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "shares": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "saved": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "total_interactions": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "ig_reels_avg_watch_time": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr",
-    "ig_reels_video_view_total_time": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtr"
+    "views": "{\"error\":{\"message\":\"Invalid parameter\",\"code\":100,\"type\":\"OAuthException\",\"error_data\":{\"blame_field_specs\":[[\"\"]]},\"er",
+    "reach": "{\"error\":{\"message\":\"Invalid parameter\",\"code\":100,\"type\":\"OAuthException\",\"error_data\":{\"blame_field_specs\":[[\"\"]]},\"er",
+    "likes": "{\"error\":{\"message\":\"Invalid parameter\",\"code\":100,\"type\":\"OAuthException\",\"error_data\":{\"blame_field_specs\":[[\"\"]]},\"er",
+    "comments": "{\"error\":{\"message\":\"Invalid parameter\",\"code\":100,\"type\":\"OAuthException\",\"error_data\":{\"blame_field_specs\":[[\"\"]]},\"er",
+    "shares": "{\"error\":{\"message\":\"Invalid parameter\",\"code\":100,\"type\":\"OAuthException\",\"error_data\":{\"blame_field_specs\":[[\"\"]]},\"er",
+    "saved": "{\"error\":{\"message\":\"Invalid parameter\",\"code\":100,\"type\":\"OAuthException\",\"error_data\":{\"blame_field_specs\":[[\"\"]]},\"er",
+    "total_interactions": "{\"error\":{\"message\":\"Invalid parameter\",\"code\":100,\"type\":\"OAuthException\",\"error_data\":{\"blame_field_specs\":[[\"\"]]},\"er",
+    "ig_reels_avg_watch_time": "{\"error\":{\"message\":\"Invalid parameter\",\"code\":100,\"type\":\"OAuthException\",\"error_data\":{\"blame_field_specs\":[[\"\"]]},\"er",
+    "ig_reels_video_view_total_time": "{\"error\":{\"message\":\"Invalid parameter\",\"code\":100,\"type\":\"OAuthException\",\"error_data\":{\"blame_field_specs\":[[\"\"]]},\"er"
    },
    "insights": {
     "views": null,
