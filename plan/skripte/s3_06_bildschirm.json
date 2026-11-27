@@ -1,0 +1,97 @@
+{
+ "id": "s3_06_bildschirm",
+ "thema": "Fernseher-Bildschirm richtig reinigen",
+ "kategorie": "Technik",
+ "variante": "B",
+ "stil": "flat",
+ "scenes": [
+  {
+   "zeilen": [
+    "So wird dein Bildschirm",
+    "schonend wieder sauber."
+   ],
+   "schluesselwoerter": [
+    "sauber."
+   ]
+  },
+  {
+   "zeilen": [
+    "Glasreiniger und Küchenpapier",
+    "können ihm schaden."
+   ],
+   "schluesselwoerter": [
+    "schaden."
+   ]
+  },
+  {
+   "zeilen": [
+    "Die Oberfläche ist oft empfindlicher, als du denkst.",
+    "Drei Schritte helfen."
+   ],
+   "schluesselwoerter": [
+    "empfindlicher,"
+   ]
+  },
+  {
+   "zeilen": [
+    "Erstens: Schalte das Gerät aus",
+    "und zieh den Stecker."
+   ],
+   "schluesselwoerter": [
+    "Stecker."
+   ]
+  },
+  {
+   "zeilen": [
+    "Zweitens: Wische sanft",
+    "mit trockenem Mikrofasertuch."
+   ],
+   "schluesselwoerter": [
+    "Mikrofasertuch."
+   ]
+  },
+  {
+   "zeilen": [
+    "Drittens: Bei Flecken nur das Tuch",
+    "mit destilliertem Wasser anfeuchten."
+   ],
+   "schluesselwoerter": [
+    "Tuch"
+   ]
+  },
+  {
+   "zeilen": [
+    "Merk dir:",
+    "Ausschalten, Mikrofaser, nie sprühen."
+   ],
+   "schluesselwoerter": [
+    "Ausschalten,",
+    "Mikrofaser,",
+    "sprühen."
+   ]
+  }
+ ],
+ "merksatz_woerter": [
+  "Ausschalten",
+  "Mikrofaser",
+  "sprühen"
+ ],
+ "bildideen": [
+  "Fernseher mit Fingerabdrücken",
+  "Glasreiniger und Küchenrolle, rot durchgestrichen",
+  "Lupe auf die Bildschirmoberfläche",
+  "Fernseher aus, Stecker wird gezogen",
+  "Mikrofasertuch wischt ohne Druck",
+  "Leicht feuchtes, ausgewrungenes Tuch",
+  "Sauberer Fernseher, Merkwörter"
+ ],
+ "caption": "So wird dein Bildschirm schonend wieder sauber 📺 Glasreiniger und Küchenpapier können die Oberfläche beschädigen.\nStecker ziehen 🔌 Mikrofasertuch 🧽 nie direkt sprühen 🚫 (Tuch nur leicht befeuchten, gut ausdrücken und die Anleitung beachten.)\nWomit putzt du deinen Fernseher? 👇\n#fernseher #bildschirm #alltagswissen #kurzwissen #technikerklärt",
+ "quellen": [],
+ "status": "skript",
+ "faktencheck": {
+  "ergebnis": "",
+  "notizen": "",
+  "geprueft_am": ""
+ },
+ "erstellt_am": "2026-11-27"
+}

@@ -1,0 +1,97 @@
+{
+ "id": "s3_05_handtuecher",
+ "thema": "Handtücher werden hart",
+ "kategorie": "Haushalt",
+ "variante": "A",
+ "stil": "flat",
+ "scenes": [
+  {
+   "zeilen": [
+    "Dieser Fehler kann",
+    "deine Handtücher hart machen."
+   ],
+   "schluesselwoerter": [
+    "hart"
+   ]
+  },
+  {
+   "zeilen": [
+    "Du nimmst beim Waschen",
+    "zu viel Waschmittel."
+   ],
+   "schluesselwoerter": [
+    "Waschmittel."
+   ]
+  },
+  {
+   "zeilen": [
+    "Reste davon können in den Fasern hängen bleiben.",
+    "Drei Dinge helfen."
+   ],
+   "schluesselwoerter": [
+    "Fasern"
+   ]
+  },
+  {
+   "zeilen": [
+    "Erstens: Dosiere das Waschmittel",
+    "genau nach der Packung."
+   ],
+   "schluesselwoerter": [
+    "Packung."
+   ]
+  },
+  {
+   "zeilen": [
+    "Zweitens: Stopf die Trommel",
+    "nicht zu voll."
+   ],
+   "schluesselwoerter": [
+    "voll."
+   ]
+  },
+  {
+   "zeilen": [
+    "Drittens: Schüttle die Handtücher",
+    "vor dem Trocknen kräftig aus."
+   ],
+   "schluesselwoerter": [
+    "Schüttle"
+   ]
+  },
+  {
+   "zeilen": [
+    "Merk dir:",
+    "Richtig dosieren, Platz, ausschütteln."
+   ],
+   "schluesselwoerter": [
+    "dosieren,",
+    "Platz,",
+    "ausschütteln."
+   ]
+  }
+ ],
+ "merksatz_woerter": [
+  "dosieren",
+  "Platz",
+  "ausschütteln"
+ ],
+ "bildideen": [
+  "Steifes Handtuch, das von selbst steht",
+  "Zu voller Messbecher mit Waschmittel",
+  "Nahaufnahme Fasern mit Rückständen",
+  "Messbecher mit Markierung neben der Packung",
+  "Waschtrommel mit freiem Platz",
+  "Handtuch wird ausgeschüttelt",
+  "Flauschiger Handtuchstapel, Merkwörter"
+ ],
+ "caption": "Dieser Fehler kann deine Handtücher hart machen 🧺 Zu viel Waschmittel kann Reste in den Fasern hinterlassen, auch Kalk macht sie steif.\nRichtig dosieren 🥄 Trommel nicht stopfen 🌀 kräftig ausschütteln 💨\nSind deine Handtücher weich oder kratzig? 👇\n#handtücher #wäsche #alltagswissen #kurzwissen #haushaltstipps",
+ "quellen": [],
+ "status": "skript",
+ "faktencheck": {
+  "ergebnis": "",
+  "notizen": "",
+  "geprueft_am": ""
+ },
+ "erstellt_am": "2026-11-27"
+}

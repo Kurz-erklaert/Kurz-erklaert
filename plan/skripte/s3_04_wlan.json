@@ -1,0 +1,98 @@
+{
+ "id": "s3_04_wlan",
+ "thema": "Router-Standort für besseres WLAN",
+ "kategorie": "Technik",
+ "variante": "B",
+ "stil": "flat",
+ "scenes": [
+  {
+   "zeilen": [
+    "So wird dein WLAN",
+    "oft wieder deutlich stabiler."
+   ],
+   "schluesselwoerter": [
+    "stabiler."
+   ]
+  },
+  {
+   "zeilen": [
+    "Häufig steht der Router",
+    "einfach am falschen Platz."
+   ],
+   "schluesselwoerter": [
+    "Router"
+   ]
+  },
+  {
+   "zeilen": [
+    "Wände, Möbel und Metall",
+    "können das Funksignal schwächen.",
+    "Drei Tipps helfen."
+   ],
+   "schluesselwoerter": [
+    "Funksignal"
+   ]
+  },
+  {
+   "zeilen": [
+    "Erstens: Stell den Router",
+    "möglichst zentral in die Wohnung."
+   ],
+   "schluesselwoerter": [
+    "zentral"
+   ]
+  },
+  {
+   "zeilen": [
+    "Zweitens: Stell ihn erhöht auf",
+    "und nicht auf den Boden."
+   ],
+   "schluesselwoerter": [
+    "erhöht"
+   ]
+  },
+  {
+   "zeilen": [
+    "Drittens: Lass ihn frei stehen,",
+    "also nicht im Schrank."
+   ],
+   "schluesselwoerter": [
+    "frei"
+   ]
+  },
+  {
+   "zeilen": [
+    "Merk dir:",
+    "Zentral, erhöht, frei."
+   ],
+   "schluesselwoerter": [
+    "Zentral,",
+    "erhöht,",
+    "frei."
+   ]
+  }
+ ],
+ "merksatz_woerter": [
+  "Zentral",
+  "erhöht",
+  "frei"
+ ],
+ "bildideen": [
+  "Router in einer Ecke, schwaches WLAN-Symbol",
+  "Router versteckt hinter Möbeln",
+  "Funkwellen werden an Wand und Metall schwächer",
+  "Wohnungsgrundriss, Router wandert in die Mitte",
+  "Router wandert vom Boden auf ein Regal",
+  "Router kommt aus dem Schrank, Wellen breiten sich aus",
+  "Volles WLAN-Symbol, Merkwörter"
+ ],
+ "caption": "So wird dein WLAN oft wieder deutlich stabiler 📶 Wände, Möbel und Metall können das Funksignal schwächen.\nZentral 🏠 erhöht ⬆️ frei stehend 📡\nWo steht dein Router gerade? 👇\n#wlan #router #alltagswissen #kurzwissen #technikerklärt",
+ "quellen": [],
+ "status": "skript",
+ "faktencheck": {
+  "ergebnis": "",
+  "notizen": "",
+  "geprueft_am": ""
+ },
+ "erstellt_am": "2026-11-27"
+}

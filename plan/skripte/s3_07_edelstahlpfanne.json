@@ -1,0 +1,98 @@
+{
+ "id": "s3_07_edelstahlpfanne",
+ "thema": "Essen klebt in der Edelstahlpfanne",
+ "kategorie": "Küche",
+ "variante": "A",
+ "stil": "flat",
+ "scenes": [
+  {
+   "zeilen": [
+    "Dieser Fehler lässt Essen",
+    "in der Edelstahlpfanne kleben."
+   ],
+   "schluesselwoerter": [
+    "kleben."
+   ]
+  },
+  {
+   "zeilen": [
+    "Oft ist die Pfanne",
+    "beim Start noch nicht heiß genug."
+   ],
+   "schluesselwoerter": [
+    "heiß"
+   ]
+  },
+  {
+   "zeilen": [
+    "Edelstahl hat keine Antihaftschicht,",
+    "da haftet Essen leicht.",
+    "Drei Schritte helfen."
+   ],
+   "schluesselwoerter": [
+    "Antihaftschicht,"
+   ]
+  },
+  {
+   "zeilen": [
+    "Erstens: Heiz die Pfanne",
+    "bei mittlerer Hitze vor."
+   ],
+   "schluesselwoerter": [
+    "Hitze"
+   ]
+  },
+  {
+   "zeilen": [
+    "Zweitens: Gib dann Bratöl dazu",
+    "und lass es kurz heiß werden."
+   ],
+   "schluesselwoerter": [
+    "Bratöl"
+   ]
+  },
+  {
+   "zeilen": [
+    "Drittens: Wende das Bratgut erst,",
+    "wenn es sich leicht löst."
+   ],
+   "schluesselwoerter": [
+    "löst."
+   ]
+  },
+  {
+   "zeilen": [
+    "Merk dir:",
+    "Vorheizen, Öl, warten."
+   ],
+   "schluesselwoerter": [
+    "Vorheizen,",
+    "Öl,",
+    "warten."
+   ]
+  }
+ ],
+ "merksatz_woerter": [
+  "Vorheizen",
+  "Öl",
+  "warten"
+ ],
+ "bildideen": [
+  "Edelstahlpfanne mit festklebendem Bratgut",
+  "Kalte Pfanne, Essen wird hineingelegt",
+  "Nahaufnahme blanker Pfannenboden",
+  "Pfanne auf Herdplatte mit mittlerer Stufe",
+  "Öl fließt in die warme Pfanne",
+  "Pfannenwender hebt Bratgut leicht ab",
+  "Goldbraunes Bratgut gleitet, Merkwörter"
+ ],
+ "caption": "Dieser Fehler lässt Essen in der Edelstahlpfanne kleben 🍳 Oft ist die Pfanne noch nicht heiß genug.\nVorheizen 🔥 Bratöl rein 🫒 in Ruhe warten ⏳ (Gilt für unbeschichtete Pfannen. Pfanne nicht unbeaufsichtigt lassen und Öl nicht rauchen lassen.)\nWas klebt bei dir am häufigsten an? 👇\n#edelstahlpfanne #braten #alltagswissen #kurzwissen #küchentipps",
+ "quellen": [],
+ "status": "skript",
+ "faktencheck": {
+  "ergebnis": "",
+  "notizen": "",
+  "geprueft_am": ""
+ },
+ "erstellt_am": "2026-11-27"
+}

@@ -1,0 +1,99 @@
+{
+ "id": "s3_01_kuehlschrank",
+ "thema": "Kühlschrank richtig einräumen",
+ "kategorie": "Küche",
+ "variante": "A",
+ "stil": "flat",
+ "scenes": [
+  {
+   "zeilen": [
+    "Dieser Fehler lässt dein Essen",
+    "im Kühlschrank schneller verderben."
+   ],
+   "schluesselwoerter": [
+    "Fehler",
+    "verderben."
+   ]
+  },
+  {
+   "zeilen": [
+    "Du räumst alles dorthin,",
+    "wo gerade Platz ist."
+   ],
+   "schluesselwoerter": [
+    "Platz"
+   ]
+  },
+  {
+   "zeilen": [
+    "Aber im Kühlschrank ist es",
+    "meist nicht überall gleich kalt.",
+    "Drei Regeln helfen."
+   ],
+   "schluesselwoerter": [
+    "kalt."
+   ]
+  },
+  {
+   "zeilen": [
+    "Erstens: Fleisch und Fisch",
+    "kommen auf die untere Glasplatte."
+   ],
+   "schluesselwoerter": [
+    "Glasplatte."
+   ]
+  },
+  {
+   "zeilen": [
+    "Zweitens: Milchprodukte",
+    "gehören in die Mitte."
+   ],
+   "schluesselwoerter": [
+    "Mitte."
+   ]
+  },
+  {
+   "zeilen": [
+    "Drittens: Salat und viel Gemüse",
+    "kommen ins Gemüsefach."
+   ],
+   "schluesselwoerter": [
+    "Gemüsefach."
+   ]
+  },
+  {
+   "zeilen": [
+    "Merk dir:",
+    "Unten, Mitte, Gemüsefach."
+   ],
+   "schluesselwoerter": [
+    "Unten,",
+    "Mitte,",
+    "Gemüsefach."
+   ]
+  }
+ ],
+ "merksatz_woerter": [
+  "Unten",
+  "Mitte",
+  "Gemüsefach"
+ ],
+ "bildideen": [
+  "Offener Kühlschrank, Lebensmittel durcheinander",
+  "Volle Fächer ohne Ordnung",
+  "Kühlschrank mit farbigen Temperaturzonen",
+  "Verpacktes Fleisch und Fisch auf der unteren Glasplatte",
+  "Joghurt und Käse im mittleren Fach",
+  "Salat und Möhrengrün im Gemüsefach",
+  "Geordneter Kühlschrank, Merkwörter"
+ ],
+ "caption": "Dieser Fehler lässt dein Essen schneller verderben 🥶 Im Kühlschrank ist es meist nicht überall gleich kalt.\nFleisch und Fisch unten 🥩 Milchprodukte in die Mitte 🥛 Salat ins Gemüsefach 🥬 (Die Anleitung deines Geräts zählt.)\nWas liegt bei dir ganz unten? 👇\n#kühlschrank #lebensmittellagern #alltagswissen #kurzwissen #küchentipps",
+ "quellen": [],
+ "status": "skript",
+ "faktencheck": {
+  "ergebnis": "",
+  "notizen": "",
+  "geprueft_am": ""
+ },
+ "erstellt_am": "2026-11-27"
+}

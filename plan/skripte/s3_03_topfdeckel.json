@@ -1,0 +1,97 @@
+{
+ "id": "s3_03_topfdeckel",
+ "thema": "Kochen ohne Deckel kostet Energie",
+ "kategorie": "Energie",
+ "variante": "A",
+ "stil": "flat",
+ "scenes": [
+  {
+   "zeilen": [
+    "Dieser Fehler macht dein Kochen",
+    "unnötig teuer."
+   ],
+   "schluesselwoerter": [
+    "teuer."
+   ]
+  },
+  {
+   "zeilen": [
+    "Du lässt den Topf",
+    "ohne Deckel auf dem Herd."
+   ],
+   "schluesselwoerter": [
+    "Deckel"
+   ]
+  },
+  {
+   "zeilen": [
+    "Dann geht mit dem Dampf viel Wärme verloren.",
+    "Drei Dinge helfen."
+   ],
+   "schluesselwoerter": [
+    "Wärme"
+   ]
+  },
+  {
+   "zeilen": [
+    "Erstens: Koche möglichst",
+    "mit einem passenden Deckel."
+   ],
+   "schluesselwoerter": [
+    "Deckel."
+   ]
+  },
+  {
+   "zeilen": [
+    "Zweitens: Wähle die Kochplatte",
+    "passend zur Größe vom Topf."
+   ],
+   "schluesselwoerter": [
+    "passend"
+   ]
+  },
+  {
+   "zeilen": [
+    "Drittens: Erhitze nur so viel Wasser,",
+    "wie du wirklich brauchst."
+   ],
+   "schluesselwoerter": [
+    "Wasser,"
+   ]
+  },
+  {
+   "zeilen": [
+    "Merk dir:",
+    "Deckel, passende Platte, wenig Wasser."
+   ],
+   "schluesselwoerter": [
+    "Deckel",
+    "Platte",
+    "Wasser."
+   ]
+  }
+ ],
+ "merksatz_woerter": [
+  "Deckel",
+  "Platte",
+  "Wasser"
+ ],
+ "bildideen": [
+  "Offener dampfender Topf auf dem Herd",
+  "Topf ohne Deckel, Deckel liegt daneben",
+  "Dampf mit Wärmepfeilen nach oben",
+  "Deckel wird auf den Topf gesetzt",
+  "Topf und gleich große Herdplatte",
+  "Messbecher füllt wenig Wasser in den Topf",
+  "Topf mit Deckel, Merkwörter"
+ ],
+ "caption": "Dieser Fehler macht dein Kochen unnötig teuer 💸 Ohne Deckel geht mit dem Dampf viel Wärme verloren.\nDeckel drauf 🍲 Platte passend wählen 🔥 nur nötiges Wasser 💧\nKochst du immer mit Deckel? 👇\n#kochen #stromsparen #alltagswissen #kurzwissen #energiesparen",
+ "quellen": [],
+ "status": "skript",
+ "faktencheck": {
+  "ergebnis": "",
+  "notizen": "",
+  "geprueft_am": ""
+ },
+ "erstellt_am": "2026-11-27"
+}

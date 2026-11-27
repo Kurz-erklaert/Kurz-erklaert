@@ -89,6 +89,94 @@
    "thema": "Wasserkocher entkalken",
    "kategorie": "Haushalt",
    "status": "genutzt"
+  },
+  {
+   "thema": "Kühlschrank richtig einräumen",
+   "kategorie": "Küche",
+   "status": "skript",
+   "skript_id": "s3_01_kuehlschrank"
+  },
+  {
+   "thema": "Spülmaschine spült nicht sauber",
+   "kategorie": "Haushalt",
+   "status": "skript",
+   "skript_id": "s3_02_spuelmaschine"
+  },
+  {
+   "thema": "Kochen ohne Deckel kostet Energie",
+   "kategorie": "Energie",
+   "status": "skript",
+   "skript_id": "s3_03_topfdeckel"
+  },
+  {
+   "thema": "Router-Standort für besseres WLAN",
+   "kategorie": "Technik",
+   "status": "skript",
+   "skript_id": "s3_04_wlan"
+  },
+  {
+   "thema": "Handtücher werden hart",
+   "kategorie": "Haushalt",
+   "status": "skript",
+   "skript_id": "s3_05_handtuecher"
+  },
+  {
+   "thema": "Fernseher-Bildschirm richtig reinigen",
+   "kategorie": "Technik",
+   "status": "skript",
+   "skript_id": "s3_06_bildschirm"
+  },
+  {
+   "thema": "Essen klebt in der Edelstahlpfanne",
+   "kategorie": "Küche",
+   "status": "skript",
+   "skript_id": "s3_07_edelstahlpfanne"
+  },
+  {
+   "thema": "Zimmertür quietscht",
+   "kategorie": "Wohnen",
+   "status": "skript",
+   "skript_id": "s3_08_quietschtuer"
+  },
+  {
+   "thema": "Reis klebt zusammen",
+   "kategorie": "Küche",
+   "status": "idee"
+  },
+  {
+   "thema": "Frische Kräuter länger haltbar",
+   "kategorie": "Küche",
+   "status": "idee"
+  },
+  {
+   "thema": "Schneidebrett riecht nach Zwiebeln",
+   "kategorie": "Küche",
+   "status": "idee"
+  },
+  {
+   "thema": "Gefrierfach vereist",
+   "kategorie": "Energie",
+   "status": "idee"
+  },
+  {
+   "thema": "Kühlschrankdichtung prüfen",
+   "kategorie": "Energie",
+   "status": "idee"
+  },
+  {
+   "thema": "Tastatur reinigen",
+   "kategorie": "Technik",
+   "status": "idee"
+  },
+  {
+   "thema": "Druckstellen im Teppich",
+   "kategorie": "Wohnen",
+   "status": "idee"
+  },
+  {
+   "thema": "Kleberreste von Etiketten entfernen",
+   "kategorie": "Haushalt",
+   "status": "idee"
   }
  ],
  "hinweis": "Skript-Autor ergänzt Ideen (status idee), Skripte (status skript), abgelehnte (status abgelehnt). Genutzte nicht wiederholen."

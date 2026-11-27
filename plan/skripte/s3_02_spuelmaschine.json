@@ -1,0 +1,99 @@
+{
+ "id": "s3_02_spuelmaschine",
+ "thema": "Spülmaschine spült nicht sauber",
+ "kategorie": "Haushalt",
+ "variante": "B",
+ "stil": "flat",
+ "scenes": [
+  {
+   "zeilen": [
+    "So wird dein Geschirr",
+    "oft wieder richtig sauber."
+   ],
+   "schluesselwoerter": [
+    "sauber."
+   ]
+  },
+  {
+   "zeilen": [
+    "Oft kommt das Wasser",
+    "nicht überall richtig hin."
+   ],
+   "schluesselwoerter": [
+    "Wasser"
+   ]
+  },
+  {
+   "zeilen": [
+    "Etwa weil das Sieb",
+    "oder die Sprüharme verstopft sind.",
+    "Drei Schritte helfen."
+   ],
+   "schluesselwoerter": [
+    "Sieb",
+    "Sprüharme"
+   ]
+  },
+  {
+   "zeilen": [
+    "Erstens: Nimm das Sieb heraus",
+    "und spüle es gründlich ab."
+   ],
+   "schluesselwoerter": [
+    "Sieb"
+   ]
+  },
+  {
+   "zeilen": [
+    "Zweitens: Prüfe, ob die Düsen",
+    "an den Sprüharmen frei sind."
+   ],
+   "schluesselwoerter": [
+    "Düsen"
+   ]
+  },
+  {
+   "zeilen": [
+    "Drittens: Räume so ein,",
+    "dass sich die Arme frei drehen."
+   ],
+   "schluesselwoerter": [
+    "frei"
+   ]
+  },
+  {
+   "zeilen": [
+    "Merk dir:",
+    "Sieb, Düsen, freie Arme."
+   ],
+   "schluesselwoerter": [
+    "Sieb",
+    "Düsen",
+    "Arme."
+   ]
+  }
+ ],
+ "merksatz_woerter": [
+  "Sieb",
+  "Düsen",
+  "Arme"
+ ],
+ "bildideen": [
+  "Teller mit Resten in offener Spülmaschine",
+  "Wasserstrahl, der Teller nicht erreicht",
+  "Verstopftes Sieb und Sprüharm",
+  "Sieb unter dem Wasserhahn",
+  "Sprüharm in Nahaufnahme, Düsen werden frei",
+  "Eingeräumter Korb, Sprüharm dreht sich",
+  "Saubere glänzende Teller, Merkwörter"
+ ],
+ "caption": "So wird dein Geschirr oft wieder richtig sauber ✨ Ein verstopftes Sieb oder blockierte Sprüharme können der Grund sein.\nSieb spülen 🚿 Düsen prüfen 🔍 Arme frei drehen lassen 🔄 (Schau vorher in die Anleitung deines Geräts.)\nWann hast du dein Sieb zuletzt gereinigt? 👇\n#spülmaschine #geschirrspüler #alltagswissen #kurzwissen #haushaltstipps",
+ "quellen": [],
+ "status": "skript",
+ "faktencheck": {
+  "ergebnis": "",
+  "notizen": "",
+  "geprueft_am": ""
+ },
+ "erstellt_am": "2026-11-27"
+}
