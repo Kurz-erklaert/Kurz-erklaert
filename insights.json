@@ -1,12 +1,39 @@
 {
- "abgerufen": "2026-11-27T14:41:46.378215Z",
+ "abgerufen": "2026-11-27T18:11:46.682305Z",
  "konto": {
   "id": "17841408250847845",
   "followers_count": 24,
-  "media_count": 37,
+  "media_count": 38,
   "username": "short.wissen.to_go"
  },
+ "token_info": {
+  "is_valid": null,
+  "type": null,
+  "expires_at": null,
+  "data_access_expires_at": null,
+  "scopes": null,
+  "fehler": "{\"error\":{\"message\":\"(#100) You must provide an app access token, or a user access token that is an owner or developer of the app\",\"type\":\"OAuthException\",\"code\":100,\"fbtrace_id\":\"A4hXJ16yBlDQDctrVkFD"
+ },
  "reels": [
+  {
+   "id": "18079481918769679",
+   "timestamp": "2026-11-27T17:56:23+0000",
+   "permalink": "https://www.instagram.com/reel/DgQRBI1NHrt/",
+   "like_count": 0,
+   "comments_count": 0,
+   "caption_anfang": "Dein Brot ist nach 2 Tagen hart? 🍞 Schuld ist die Retrograda",
+   "insights": {
+    "views": 0,
+    "reach": 0,
+    "likes": 0,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 0,
+    "ig_reels_avg_watch_time": 8380,
+    "ig_reels_video_view_total_time": 8380
+   }
+  },
   {
    "id": "18132379147872183",
    "timestamp": "2026-11-27T14:10:24+0000",
@@ -15,15 +42,15 @@
    "comments_count": 0,
    "caption_anfang": "8 Stunden geschlafen und trotzdem platt? 😴 Das ist Schlafträ",
    "insights": {
-    "views": 72,
-    "reach": 0,
+    "views": 129,
+    "reach": 113,
     "likes": 0,
     "comments": 0,
-    "shares": 0,
+    "shares": 1,
     "saved": 0,
-    "total_interactions": 0,
-    "ig_reels_avg_watch_time": 4812,
-    "ig_reels_video_view_total_time": 9624
+    "total_interactions": 1,
+    "ig_reels_avg_watch_time": 5426,
+    "ig_reels_video_view_total_time": 618588
    }
   },
   {
@@ -117,8 +144,8 @@
     "shares": 1,
     "saved": 6,
     "total_interactions": 21,
-    "ig_reels_avg_watch_time": 13828,
-    "ig_reels_video_view_total_time": 20591274
+    "ig_reels_avg_watch_time": 13824,
+    "ig_reels_video_view_total_time": 20611946
    }
   },
   {
