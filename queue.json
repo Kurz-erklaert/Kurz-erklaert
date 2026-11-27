@@ -58,6 +58,15 @@
     "cover": "covers/folge05.jpg"
   },
   {
+    "video": "videos/d2_01_apfel.mp4",
+    "caption": "Dieser Fehler macht deinen Apfel braun 🍎 Luft kommt an die Schnittfläche, der Stoff im Apfel reagiert mit Sauerstoff.\nZitronensaft 🍋 Dose 🥡 spät schneiden ⏱️\nWelchen Trick nutzt du, damit dein Apfel hell bleibt? 👇\nStimme: KI 🎙️\n#apfel #küchentipps #alltagswissen #alltagstipps #kurzwissen",
+    "staffel": 2,
+    "variante": "A",
+    "thema": "Apfel braun",
+    "stil": "flat-dunkel",
+    "cover": "covers/d2_01_apfel.jpg"
+  },
+  {
     "video": "videos/folge06.mp4",
     "caption": "Schluckauf und er geht nicht weg? 😅 Dein Zwerchfell zieht sich ruckartig zusammen, die Stimmritze schließt sich – daher das „Hick“.\nTrinken, Luft anhalten, ruhig atmen.\nWas hilft bei dir am besten? 👇\nStimme: KI 🎙️\n#schluckauf #körper #alltagswissen #alltagstipps #kurzwissen",
     "staffel": 1,
@@ -72,6 +81,15 @@
     "variante": "S1",
     "stil": "flat",
     "cover": "covers/folge07.jpg"
+  },
+  {
+    "video": "videos/d2_03_broetchen.mp4",
+    "caption": "Wirf trockene Brötchen nie weg! 🥖 Die Stärke verfestigt sich, deshalb werden sie hart.\nKurz unter den Hahn 💧, bei 180 Grad etwa zehn Minuten backen 🔥, sofort essen 😋\nWas machst du mit Brötchen von gestern? 👇\nStimme: KI 🎙️\n#brötchen #aufbacken #alltagswissen #alltagstipps #kurzwissen",
+    "staffel": 2,
+    "variante": "A",
+    "thema": "Brötchen aufbacken",
+    "stil": "flat-dunkel",
+    "cover": "covers/d2_03_broetchen.jpg"
   },
   {
     "video": "videos/folge08.mp4",
@@ -90,6 +108,15 @@
     "cover": "covers/folge09.jpg"
   },
   {
+    "video": "videos/d2_04_handy.mp4",
+    "caption": "So hält dein Handy-Akku deutlich länger 🔋 Hitze und ständig volle oder leere Ladung lassen ihn schneller altern.\nKühl halten, Mitte laden, Strom sparen ✅\nWie viel Prozent hat dein Handy gerade? 👇\nStimme: KI 🎙️\n#handyakku #akku #alltagswissen #technikerklärt #kurzwissen",
+    "staffel": 2,
+    "variante": "B",
+    "thema": "Handy-Akku",
+    "stil": "flat-dunkel",
+    "cover": "covers/d2_04_handy.jpg"
+  },
+  {
     "video": "videos/folge10.mp4",
     "caption": "Warum werden Finger im Wasser schrumpelig? 🖐️💧 Nicht Aufquellen – dein Nervensystem zieht die Blutgefäße zusammen.\nErst nach Minuten, nur Hände und Füße, vielleicht mehr Halt (nicht sicher bewiesen).\nHast du das gewusst? 👇\nStimme: KI 🎙️\n#körper #wusstestdu #alltagswissen #kurzwissen",
     "staffel": 1,
@@ -106,47 +133,20 @@
     "cover": "covers/folge11.jpg"
   },
   {
+    "video": "videos/d2_05_spiegel.mp4",
+    "caption": "Dieser Fehler lässt deinen Badspiegel beschlagen 🚿 Warmer Wasserdampf trifft auf die kältere Spiegelfläche.\nLüften, Spülmittel, kühler duschen 🪞\nWie lange dauert es bei dir, bis der Spiegel wieder klar ist? 👇\nStimme: KI 🎙️\n#badezimmer #spiegel #alltagswissen #technikerklärt #kurzwissen",
+    "staffel": 2,
+    "variante": "A",
+    "thema": "Badspiegel beschlägt",
+    "stil": "flat-dunkel",
+    "cover": "covers/d2_05_spiegel.jpg"
+  },
+  {
     "video": "videos/folge12.mp4",
     "caption": "Fernseher aus und trotzdem Stromverbrauch? 🔌 Im Standby ziehen Geräte rund um die Uhr ein wenig Strom – das summiert sich.\nSteckerleiste, Ladegerät ab, ganz ausschalten.\nWie viele Geräte hängen bei dir im Standby? 👇\nStimme: KI 🎙️\n#standby #stromsparen #alltagswissen #alltagstipps #kurzwissen",
     "staffel": 1,
     "variante": "S1",
     "stil": "flat",
     "cover": "covers/folge12.jpg"
-  },
-  {
-    "video": "videos/s2_01_apfel.mp4",
-    "caption": "Dieser Fehler macht deinen Apfel braun 🍎 Luft kommt an die Schnittfläche, der Stoff im Apfel reagiert mit Sauerstoff.\nZitronensaft 🍋 Dose 🥡 spät schneiden ⏱️\nWelchen Trick nutzt du, damit dein Apfel hell bleibt? 👇\nStimme: KI 🎙️\n#apfel #küchentipps #alltagswissen #alltagstipps #kurzwissen",
-    "staffel": 2,
-    "variante": "A",
-    "thema": "Apfel braun",
-    "stil": "flat",
-    "cover": "covers/s2_01_apfel.jpg"
-  },
-  {
-    "video": "videos/s2_03_broetchen.mp4",
-    "caption": "Wirf trockene Brötchen nie weg! 🥖 Die Stärke verfestigt sich, deshalb werden sie hart.\nKurz unter den Hahn 💧, bei 180 Grad etwa zehn Minuten backen 🔥, sofort essen 😋\nWas machst du mit Brötchen von gestern? 👇\nStimme: KI 🎙️\n#brötchen #aufbacken #alltagswissen #alltagstipps #kurzwissen",
-    "staffel": 2,
-    "variante": "A",
-    "thema": "Brötchen aufbacken",
-    "stil": "flat",
-    "cover": "covers/s2_03_broetchen.jpg"
-  },
-  {
-    "video": "videos/s2_04_handy.mp4",
-    "caption": "So hält dein Handy-Akku deutlich länger 🔋 Hitze und ständig volle oder leere Ladung lassen ihn schneller altern.\nKühl halten, Mitte laden, Strom sparen ✅\nWie viel Prozent hat dein Handy gerade? 👇\nStimme: KI 🎙️\n#handyakku #akku #alltagswissen #technikerklärt #kurzwissen",
-    "staffel": 2,
-    "variante": "B",
-    "thema": "Handy-Akku",
-    "stil": "flat",
-    "cover": "covers/s2_04_handy.jpg"
-  },
-  {
-    "video": "videos/s2_05_spiegel.mp4",
-    "caption": "Dieser Fehler lässt deinen Badspiegel beschlagen 🚿 Warmer Wasserdampf trifft auf die kältere Spiegelfläche.\nLüften, Spülmittel, kühler duschen 🪞\nWie lange dauert es bei dir, bis der Spiegel wieder klar ist? 👇\nStimme: KI 🎙️\n#badezimmer #spiegel #alltagswissen #technikerklärt #kurzwissen",
-    "staffel": 2,
-    "variante": "A",
-    "thema": "Badspiegel beschlägt",
-    "stil": "flat",
-    "cover": "covers/s2_05_spiegel.jpg"
   }
 ]

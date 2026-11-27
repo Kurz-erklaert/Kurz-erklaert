@@ -15,6 +15,8 @@ def make(video, out, title, stil, sec=1.6):
     d = ImageDraw.Draw(im)
     if stil == '3d':
         bg, fg, acc, y0 = (3, 4, 7), (245, 247, 250), (255, 196, 64), 1395
+    elif stil == 'dark':
+        bg, fg, acc, y0 = (8, 10, 16), (232, 238, 248), (255, 170, 50), 1236
     else:
         bg, fg, acc, y0 = (251, 247, 240), (20, 33, 61), (242, 140, 40), 1236
     d.rectangle([0, y0, W, H], fill=bg)
