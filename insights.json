@@ -1,5 +1,5 @@
 {
- "abgerufen": "2026-11-27T18:11:46.682305Z",
+ "abgerufen": "2026-11-27T18:50:51.796608Z",
  "konto": {
   "id": "17841408250847845",
   "followers_count": 24,
@@ -12,7 +12,7 @@
   "expires_at": null,
   "data_access_expires_at": null,
   "scopes": null,
-  "fehler": "{\"error\":{\"message\":\"(#100) You must provide an app access token, or a user access token that is an owner or developer of the app\",\"type\":\"OAuthException\",\"code\":100,\"fbtrace_id\":\"A4hXJ16yBlDQDctrVkFD"
+  "fehler": "{\"error\":{\"message\":\"(#100) You must provide an app access token, or a user access token that is an owner or developer of the app\",\"type\":\"OAuthException\",\"code\":100,\"fbtrace_id\":\"AHMd4-1FXpvrfnNnz4GB"
  },
  "reels": [
   {
@@ -23,15 +23,15 @@
    "comments_count": 0,
    "caption_anfang": "Dein Brot ist nach 2 Tagen hart? 🍞 Schuld ist die Retrograda",
    "insights": {
-    "views": 0,
-    "reach": 0,
+    "views": 89,
+    "reach": 35,
     "likes": 0,
     "comments": 0,
     "shares": 0,
     "saved": 0,
     "total_interactions": 0,
-    "ig_reels_avg_watch_time": 8380,
-    "ig_reels_video_view_total_time": 8380
+    "ig_reels_avg_watch_time": 5403,
+    "ig_reels_video_view_total_time": 340445
    }
   },
   {
@@ -43,14 +43,14 @@
    "caption_anfang": "8 Stunden geschlafen und trotzdem platt? 😴 Das ist Schlafträ",
    "insights": {
     "views": 129,
-    "reach": 113,
+    "reach": 114,
     "likes": 0,
     "comments": 0,
     "shares": 1,
     "saved": 0,
     "total_interactions": 1,
-    "ig_reels_avg_watch_time": 5426,
-    "ig_reels_video_view_total_time": 618588
+    "ig_reels_avg_watch_time": 5386,
+    "ig_reels_video_view_total_time": 619460
    }
   },
   {
