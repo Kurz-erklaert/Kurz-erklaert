@@ -1,0 +1,95 @@
+{
+ "themen": [
+  {
+   "thema": "Schlafträgheit",
+   "kategorie": "Körper-Alltag",
+   "status": "genutzt"
+  },
+  {
+   "thema": "Brot wird hart",
+   "kategorie": "Küche",
+   "status": "genutzt"
+  },
+  {
+   "thema": "Schwarz vor Augen beim Aufstehen",
+   "kategorie": "Körper-Alltag",
+   "status": "genutzt"
+  },
+  {
+   "thema": "Zwiebelschneiden Tränen",
+   "kategorie": "Küche",
+   "status": "genutzt"
+  },
+  {
+   "thema": "Waschmaschine riecht muffig",
+   "kategorie": "Haushalt",
+   "status": "genutzt"
+  },
+  {
+   "thema": "Schluckauf",
+   "kategorie": "Körper-Alltag",
+   "status": "genutzt"
+  },
+  {
+   "thema": "Brille beschlägt",
+   "kategorie": "Haushalt",
+   "status": "genutzt"
+  },
+  {
+   "thema": "Fenster morgens nass",
+   "kategorie": "Wohnen",
+   "status": "genutzt"
+  },
+  {
+   "thema": "Bananen braun",
+   "kategorie": "Küche",
+   "status": "genutzt"
+  },
+  {
+   "thema": "Finger schrumpelig",
+   "kategorie": "Körper-Alltag",
+   "status": "genutzt"
+  },
+  {
+   "thema": "Kaffee macht nicht wach",
+   "kategorie": "Körper-Alltag",
+   "status": "genutzt"
+  },
+  {
+   "thema": "Standby Stromverbrauch",
+   "kategorie": "Energie",
+   "status": "genutzt"
+  },
+  {
+   "thema": "Apfel wird braun",
+   "kategorie": "Küche",
+   "status": "genutzt"
+  },
+  {
+   "thema": "Heizung entlüften",
+   "kategorie": "Wohnen",
+   "status": "genutzt"
+  },
+  {
+   "thema": "Brötchen aufbacken",
+   "kategorie": "Küche",
+   "status": "genutzt"
+  },
+  {
+   "thema": "Handy-Akku",
+   "kategorie": "Technik",
+   "status": "genutzt"
+  },
+  {
+   "thema": "Badspiegel beschlägt",
+   "kategorie": "Haushalt",
+   "status": "genutzt"
+  },
+  {
+   "thema": "Wasserkocher entkalken",
+   "kategorie": "Haushalt",
+   "status": "genutzt"
+  }
+ ],
+ "hinweis": "Skript-Autor ergänzt Ideen (status idee), Skripte (status skript), abgelehnte (status abgelehnt). Genutzte nicht wiederholen."
+}

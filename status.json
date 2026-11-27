@@ -1,0 +1,10 @@
+{
+ "stand": "2026-11-27T17:55:00+01:00",
+ "ampel": "gruen",
+ "hinweise": [
+  "Startzustand angelegt, Wächter hat noch nicht gelaufen."
+ ],
+ "queue_offen": 17,
+ "letzter_insights_abruf": "fehlt",
+ "tage_reichweite_queue": 8
+}

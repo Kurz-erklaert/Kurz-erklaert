@@ -1,0 +1,15 @@
+{
+ "stand": "2026-11-27",
+ "stil": "flat",
+ "skripte_pro_lauf": 7,
+ "ziel_geprueft_auf_halde": 10,
+ "hook_mix": "abwechselnd A und B",
+ "kategorien_schwerpunkt": [
+  "Küche",
+  "Haushalt",
+  "Technik",
+  "Energie",
+  "Wohnen"
+ ],
+ "hinweise": "Manager aktualisiert wöchentlich. Skript-Autor liest dies vor jedem Lauf."
+}
