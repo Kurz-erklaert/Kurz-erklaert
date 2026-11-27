@@ -20,8 +20,14 @@ METRICS = ["views", "reach", "likes", "comments", "shares", "saved", "total_inte
            "ig_reels_avg_watch_time", "ig_reels_video_view_total_time"]
 
 acc = get(UID, {"fields": "username,followers_count,media_count"})
+# Token-Info (Ablaufdatum, Gültigkeit); fehlertolerant, nicht jeder Tokentyp erlaubt das
+tok = get("debug_token", {"input_token": TOKEN})
+tinfo = tok.get("data") if "data" in tok else {"fehler": (tok.get("error") or "")[:200]}
+if isinstance(tinfo, dict):
+    tinfo = {k: tinfo.get(k) for k in ("is_valid", "type", "expires_at", "data_access_expires_at", "scopes", "fehler")}
 media = get(f"{UID}/media", {"fields": "id,caption,timestamp,permalink,media_product_type,like_count,comments_count", "limit": 50})
-out = {"abgerufen": datetime.datetime.utcnow().isoformat() + "Z", "konto": acc, "reels": []}
+out = {"abgerufen": datetime.datetime.utcnow().isoformat() + "Z", "konto": acc, "token_info": tinfo, "reels": []}
+jetzt = datetime.datetime.utcnow()
 for m in media.get("data", []):
     if m.get("media_product_type") != "REELS":
         continue
@@ -36,6 +42,17 @@ for m in media.get("data", []):
             ins[met] = None
             row.setdefault("fehler", {})[met] = (r.get("error") or "")[:120]
     row["insights"] = ins
+    # Kommentare der letzten 14 Tage (für den Community-Agenten); Fehler (fehlende Berechtigung) werden nur vermerkt
+    try:
+        alter = jetzt - datetime.datetime.strptime(m["timestamp"][:19], "%Y-%m-%dT%H:%M:%S")
+    except Exception:
+        alter = datetime.timedelta(days=99)
+    if alter.days <= 14 and (m.get("comments_count") or 0) > 0:
+        c = get(f"{m['id']}/comments", {"fields": "id,text,username,timestamp,like_count,replies{id,text,username,timestamp}", "limit": 30})
+        if "data" in c:
+            row["kommentare"] = c["data"]
+        else:
+            row["kommentare_fehler"] = (c.get("error") or "")[:160]
     out["reels"].append(row)
 if "error" in media:
     out["fehler"] = media["error"]

@@ -1,7 +1,7 @@
 name: Kennzahlen abrufen
 on:
   schedule:
-    - cron: "0 20 * * *"   # täglich ca. 21:00 deutscher Winterzeit
+    - cron: "0 4,12,20 * * *"   # dreimal täglich (Ausfälle einzelner Läufe fallen nicht ins Gewicht)
   workflow_dispatch:
 permissions:
   contents: write
