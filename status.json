@@ -1,10 +1,22 @@
 {
- "stand": "2026-11-27T17:55:00+01:00",
+ "stand": "2026-11-27T17:53:48+01:00",
  "ampel": "gruen",
  "hinweise": [
-  "Startzustand angelegt, Wächter hat noch nicht gelaufen."
+  "Veröffentlichung im Plan: erwartet 1, veröffentlicht 1. Erster Slot im Dauerbetrieb ist am 27.11. um 18:30 Uhr.",
+  "Die letzten Workflow-Läufe waren alle erfolgreich (4 manuell gestartete, noch kein geplanter Lauf).",
+  "7 Reels vom 08.–14.05.2025 liefern keine Kennzahlen (Code 100, Invalid parameter, Typ OAuthException). Die anderen 30 im selben Abruf sind fehlerfrei, daher nicht als Token-Fehler gewertet.",
+  "Halde leer: 0 geprüfte, noch nicht produzierte Skripte."
  ],
  "queue_offen": 17,
- "letzter_insights_abruf": "fehlt",
- "tage_reichweite_queue": 8
+ "tage_reichweite_queue": 8.5,
+ "posted_anzahl": 1,
+ "posted_erwartet": 1,
+ "letzter_insights_abruf": "2026-11-27T14:41:46.378215Z",
+ "halde": {
+  "skript": 0,
+  "geprueft": 0,
+  "ueberarbeiten": 0,
+  "abgelehnt": 0,
+  "produziert": 0
+ }
 }
