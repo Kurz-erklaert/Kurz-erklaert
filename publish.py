@@ -12,7 +12,7 @@ BRANCH = os.environ.get("GITHUB_REF_NAME", "main")
 DRY = os.environ.get("DRY_RUN") == "1"
 
 
-def call(method, path, params):
+def call(method, path, params, fatal=True):
     params = dict(params, access_token=TOKEN)
     url = f"{HOST}/{VER}/{path}"
     data = urllib.parse.urlencode(params).encode() if method == "POST" else None
@@ -22,7 +22,10 @@ def call(method, path, params):
         with urllib.request.urlopen(urllib.request.Request(url, data=data, method=method), timeout=60) as r:
             return json.load(r)
     except urllib.error.HTTPError as e:
-        print("API-Fehler:", e.read().decode()[:500]); sys.exit(1)
+        msg = e.read().decode()[:500]
+        print("API-Fehler:", msg)
+        if fatal: sys.exit(1)
+        return {"error": msg}
 
 
 queue = json.load(open("queue.json", encoding="utf-8"))
@@ -67,8 +70,15 @@ print("Nächstes Video:", item["video"], video_url)
 if DRY:
     print("DRY_RUN, kein Upload."); sys.exit(0)
 
-c = call("POST", f"{UID}/media", {"media_type": "REELS", "video_url": video_url,
-                                  "caption": item["caption"], "share_to_feed": "true"})
+params = {"media_type": "REELS", "video_url": video_url, "caption": item["caption"], "share_to_feed": "true"}
+if item.get("cover") and os.path.exists(item["cover"]):
+    params["cover_url"] = f"https://raw.githubusercontent.com/{REPO}/{BRANCH}/{item['cover']}"
+    c = call("POST", f"{UID}/media", params, fatal=False)
+    if "id" not in c:   # Cover abgelehnt: ohne Cover erneut versuchen, damit nichts ausfällt
+        print("Cover wurde abgelehnt, veröffentliche ohne Cover.")
+        params.pop("cover_url"); c = call("POST", f"{UID}/media", params)
+else:
+    c = call("POST", f"{UID}/media", params)
 cid = c["id"]
 for _ in range(40):
     s = call("GET", cid, {"fields": "status_code,status"})
