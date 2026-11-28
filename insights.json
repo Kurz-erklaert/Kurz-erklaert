@@ -1,9 +1,9 @@
 {
- "abgerufen": "2026-11-28T04:49:42.535175Z",
+ "abgerufen": "2026-11-28T09:12:54.418643Z",
  "konto": {
   "id": "17841408250847845",
   "followers_count": 24,
-  "media_count": 38,
+  "media_count": 39,
   "username": "short.wissen.to_go"
  },
  "token_info": {
@@ -12,9 +12,28 @@
   "expires_at": null,
   "data_access_expires_at": null,
   "scopes": null,
-  "fehler": "{\"error\":{\"message\":\"(#100) You must provide an app access token, or a user access token that is an owner or developer of the app\",\"type\":\"OAuthException\",\"code\":100,\"fbtrace_id\":\"AnvSQk_2VKEL0IQIQF2l"
+  "fehler": "{\"error\":{\"message\":\"(#100) You must provide an app access token, or a user access token that is an owner or developer of the app\",\"type\":\"OAuthException\",\"code\":100,\"fbtrace_id\":\"ArbML87nzROTCpleTNAk"
  },
  "reels": [
+  {
+   "id": "18039219509854123",
+   "timestamp": "2026-11-28T07:07:44+0000",
+   "permalink": "https://www.instagram.com/reel/DgRrkE8CdSC/",
+   "like_count": 0,
+   "comments_count": 0,
+   "caption_anfang": "Schwarz vor Augen beim Aufstehen? 😵 Beim Aufstehen sackt Blu",
+   "insights": {
+    "views": 124,
+    "reach": 118,
+    "likes": 0,
+    "comments": 0,
+    "shares": 0,
+    "saved": 1,
+    "total_interactions": 1,
+    "ig_reels_avg_watch_time": 7615,
+    "ig_reels_video_view_total_time": 891011
+   }
+  },
   {
    "id": "18079481918769679",
    "timestamp": "2026-11-27T17:56:23+0000",
@@ -23,15 +42,15 @@
    "comments_count": 0,
    "caption_anfang": "Dein Brot ist nach 2 Tagen hart? 🍞 Schuld ist die Retrograda",
    "insights": {
-    "views": 117,
-    "reach": 103,
+    "views": 118,
+    "reach": 104,
     "likes": 0,
     "comments": 0,
     "shares": 1,
     "saved": 0,
     "total_interactions": 1,
-    "ig_reels_avg_watch_time": 6048,
-    "ig_reels_video_view_total_time": 641168
+    "ig_reels_avg_watch_time": 5977,
+    "ig_reels_video_view_total_time": 645612
    }
   },
   {
@@ -42,15 +61,15 @@
    "comments_count": 0,
    "caption_anfang": "8 Stunden geschlafen und trotzdem platt? 😴 Das ist Schlafträ",
    "insights": {
-    "views": 129,
-    "reach": 114,
+    "views": 130,
+    "reach": 115,
     "likes": 0,
     "comments": 0,
     "shares": 1,
     "saved": 0,
     "total_interactions": 1,
-    "ig_reels_avg_watch_time": 5351,
-    "ig_reels_video_view_total_time": 620803
+    "ig_reels_avg_watch_time": 5376,
+    "ig_reels_video_view_total_time": 629064
    }
   },
   {
@@ -61,15 +80,15 @@
    "comments_count": 0,
    "caption_anfang": "#schluckauf #gutzuwissen",
    "insights": {
-    "views": 111,
-    "reach": 104,
+    "views": 112,
+    "reach": 105,
     "likes": 2,
     "comments": 0,
     "shares": 0,
     "saved": 0,
     "total_interactions": 2,
-    "ig_reels_avg_watch_time": 4490,
-    "ig_reels_video_view_total_time": 476036
+    "ig_reels_avg_watch_time": 4469,
+    "ig_reels_video_view_total_time": 478215
    }
   },
   {
@@ -80,15 +99,15 @@
    "comments_count": 0,
    "caption_anfang": "#fenster #nass #gutzuwissen #haushalt #haushalttipps",
    "insights": {
-    "views": 127,
-    "reach": 114,
+    "views": 128,
+    "reach": 115,
     "likes": 1,
     "comments": 0,
     "shares": 0,
     "saved": 0,
     "total_interactions": 1,
-    "ig_reels_avg_watch_time": 5863,
-    "ig_reels_video_view_total_time": 686038
+    "ig_reels_avg_watch_time": 5832,
+    "ig_reels_video_view_total_time": 688242
    }
   },
   {
@@ -99,15 +118,15 @@
    "comments_count": 0,
    "caption_anfang": "#schlaf #schlafträgheit #alltag #müde #gutzuwissen",
    "insights": {
-    "views": 145,
-    "reach": 122,
+    "views": 146,
+    "reach": 123,
     "likes": 2,
     "comments": 0,
     "shares": 0,
     "saved": 0,
     "total_interactions": 2,
-    "ig_reels_avg_watch_time": 9098,
-    "ig_reels_video_view_total_time": 1146382
+    "ig_reels_avg_watch_time": 9064,
+    "ig_reels_video_view_total_time": 1151235
    }
   },
   {
@@ -119,7 +138,7 @@
    "caption_anfang": "#akku #gutzuwissen #haushalttipps #technik",
    "insights": {
     "views": 118,
-    "reach": 111,
+    "reach": 112,
     "likes": 2,
     "comments": 0,
     "shares": 0,
@@ -220,8 +239,8 @@
     "shares": 2,
     "saved": 0,
     "total_interactions": 8,
-    "ig_reels_avg_watch_time": 11477,
-    "ig_reels_video_view_total_time": 1962709
+    "ig_reels_avg_watch_time": 11444,
+    "ig_reels_video_view_total_time": 1968379
    }
   },
   {
@@ -239,8 +258,8 @@
     "shares": 0,
     "saved": 0,
     "total_interactions": 4,
-    "ig_reels_avg_watch_time": 10257,
-    "ig_reels_video_view_total_time": 2030895
+    "ig_reels_avg_watch_time": 10216,
+    "ig_reels_video_view_total_time": 2032992
    }
   },
   {
@@ -277,8 +296,8 @@
     "shares": 0,
     "saved": 0,
     "total_interactions": 1,
-    "ig_reels_avg_watch_time": 7676,
-    "ig_reels_video_view_total_time": 621834
+    "ig_reels_avg_watch_time": 7598,
+    "ig_reels_video_view_total_time": 623063
    }
   },
   {
@@ -296,8 +315,8 @@
     "shares": 0,
     "saved": 0,
     "total_interactions": 3,
-    "ig_reels_avg_watch_time": 9328,
-    "ig_reels_video_view_total_time": 1296665
+    "ig_reels_avg_watch_time": 9263,
+    "ig_reels_video_view_total_time": 1296821
    }
   },
   {
@@ -315,8 +334,8 @@
     "shares": 0,
     "saved": 1,
     "total_interactions": 5,
-    "ig_reels_avg_watch_time": 10009,
-    "ig_reels_video_view_total_time": 1801718
+    "ig_reels_avg_watch_time": 9966,
+    "ig_reels_video_view_total_time": 1803901
    }
   },
   {
@@ -334,8 +353,8 @@
     "shares": 0,
     "saved": 1,
     "total_interactions": 6,
-    "ig_reels_avg_watch_time": 11133,
-    "ig_reels_video_view_total_time": 2282370
+    "ig_reels_avg_watch_time": 11084,
+    "ig_reels_video_view_total_time": 2283402
    }
   },
   {
@@ -353,8 +372,8 @@
     "shares": 0,
     "saved": 0,
     "total_interactions": 2,
-    "ig_reels_avg_watch_time": 8512,
-    "ig_reels_video_view_total_time": 1106561
+    "ig_reels_avg_watch_time": 8458,
+    "ig_reels_video_view_total_time": 1108032
    }
   },
   {
@@ -372,8 +391,8 @@
     "shares": 0,
     "saved": 1,
     "total_interactions": 4,
-    "ig_reels_avg_watch_time": 10392,
-    "ig_reels_video_view_total_time": 1860287
+    "ig_reels_avg_watch_time": 10344,
+    "ig_reels_video_view_total_time": 1862048
    }
   },
   {
@@ -410,8 +429,8 @@
     "shares": 0,
     "saved": 0,
     "total_interactions": 2,
-    "ig_reels_avg_watch_time": 10749,
-    "ig_reels_video_view_total_time": 2332534
+    "ig_reels_avg_watch_time": 10709,
+    "ig_reels_video_view_total_time": 2334695
    }
   },
   {
@@ -429,8 +448,8 @@
     "shares": 0,
     "saved": 0,
     "total_interactions": 2,
-    "ig_reels_avg_watch_time": 9507,
-    "ig_reels_video_view_total_time": 1920558
+    "ig_reels_avg_watch_time": 9477,
+    "ig_reels_video_view_total_time": 1923957
    }
   },
   {
@@ -448,8 +467,8 @@
     "shares": 0,
     "saved": 0,
     "total_interactions": 1,
-    "ig_reels_avg_watch_time": 6065,
-    "ig_reels_video_view_total_time": 260833
+    "ig_reels_avg_watch_time": 5986,
+    "ig_reels_video_view_total_time": 263399
    }
   },
   {
@@ -467,8 +486,8 @@
     "shares": 0,
     "saved": 0,
     "total_interactions": 2,
-    "ig_reels_avg_watch_time": 8084,
-    "ig_reels_video_view_total_time": 541692
+    "ig_reels_avg_watch_time": 7986,
+    "ig_reels_video_view_total_time": 543079
    }
   },
   {
